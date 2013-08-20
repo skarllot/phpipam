@@ -1,18 +1,22 @@
-# PHPIPAM translations file - template
-# Copyright (C) phpipam 2013 
+# Brazilian Portuguese translation of phpipam.
 # This file is distributed under the same license as the phpipam package.
-# miha petkovsek <miha.petkovsek@gmail.com>, 2013.
+# Copyright (C) phpipam 2013
+# Fabrício Godoy <skarllot@gmail.com>, 2013.
 #
-
-# "Project-Id-Version: 0.87.001\n"
-# "Report-Msgid-Bugs-To: Miha Petkovsek <miha.petkovsek@gmail.com>\n"
-# "POT-Creation-Date: 2013-04-02 14:33+0200\n"
-# "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-# "Last-Translator: \n"
-# "Language: English\n"
-# "MIME-Version: 1.0\n"
-# "Content-Type: text/plain; charset=UTF-8\n"
-# "Content-Transfer-Encoding: 8bit\n"
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.87.001\n"
+"Report-Msgid-Bugs-To: Miha Petkovsek <miha.petkovsek@gmail.com>\n"
+"POT-Creation-Date: 2013-04-02 14:33+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fabrício Godoy <skarllot@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: functions/functions-install.php:85 functions/functions-install.php:133
 #: functions/functions-install.php:150 functions/functions-install.php:182
@@ -869,7 +873,8 @@ msgid "IPv6 search tips"
 msgstr ""
 
 #: site/tools/searchTips.php:37
-msgid "You can search through ranges by specifying whole subnet (e.g. "
+msgid ""
+"You can search through ranges by specifying whole subnet (e.g. "
 "2002:8a10::/32)"
 msgstr ""
 
@@ -878,7 +883,8 @@ msgid "Hostname search tips"
 msgstr ""
 
 #: site/tools/searchTips.php:46
-msgid "You can get all IP addresses some host uses and all ports it is connected to "
+msgid ""
+"You can get all IP addresses some host uses and all ports it is connected to "
 "by entering hostname in search field"
 msgstr ""
 
@@ -887,7 +893,8 @@ msgid "Device search tips"
 msgstr ""
 
 #: site/tools/searchTips.php:55
-msgid "You can get all used / available ports and connected IP's / hostnames in "
+msgid ""
+"You can get all used / available ports and connected IP's / hostnames in "
 "some device by entering device name in search field"
 msgstr ""
 
@@ -896,7 +903,8 @@ msgid "MAC search tips"
 msgstr ""
 
 #: site/tools/searchTips.php:64
-msgid "You can search by MAC address list entering MAC in 00:1cd:d4:78:ec:46 or "
+msgid ""
+"You can search by MAC address list entering MAC in 00:1cd:d4:78:ec:46 or "
 "001dd478ec46 format, or search multiple with 00:1c:c4:"
 msgstr ""
 
@@ -1138,7 +1146,8 @@ msgid "Orphaned IP addresses for subnet"
 msgstr ""
 
 #: site/ipaddr/ipAddressPrintTableOrphaned.php:69
-msgid "This happens if subnet had IP addresses<br>when new nested subnet was added"
+msgid ""
+"This happens if subnet had IP addresses<br>when new nested subnet was added"
 msgstr ""
 
 #: site/ipaddr/ipAddressPrintTableOrphaned.php:171
@@ -1290,7 +1299,7 @@ msgstr ""
 
 #: site/ipaddr/modifyIpAddress.php:31
 msgid "You do not have write access for this network'"
-msgstr "Nimaš pravic za pisanje v tem omrežju"
+msgstr "NimaÅ¡ pravic za pisanje v tem omreÅ¾ju"
 
 #: site/ipaddr/modifyIpAddress.php:79 site/ipaddr/modifyIpAddress.php:80
 msgid "add"
@@ -1305,7 +1314,8 @@ msgid "delete"
 msgstr ""
 
 #: site/ipaddr/modifyIpAddress.php:115
-msgid "You can add,edit or delete multiple IP addresses<br>by specifying IP range "
+msgid ""
+"You can add,edit or delete multiple IP addresses<br>by specifying IP range "
 "(e.g. 10.10.0.0-10.10.0.25)"
 msgstr ""
 
@@ -1438,7 +1448,8 @@ msgid "phpIPAM is free, open-source project"
 msgstr ""
 
 #: site/footer.php:26
-msgid "If you like the software you can donate by clicking this button to support "
+msgid ""
+"If you like the software you can donate by clicking this button to support "
 "further development"
 msgstr ""
 
@@ -1575,7 +1586,8 @@ msgid "Import subnets from RIPE"
 msgstr ""
 
 #: site/admin/ripeImport.php:15
-msgid "This script imports subnets from RIPE database for specific AS. Enter "
+msgid ""
+"This script imports subnets from RIPE database for specific AS. Enter "
 "desired AS to search for subnets"
 msgstr ""
 
@@ -1646,19 +1658,22 @@ msgid "Active Directory connection settings"
 msgstr ""
 
 #: site/admin/manageAD_AD.php:17
-msgid "Here you can set parameters for connecting to AD for authenticating users. "
+msgid ""
+"Here you can set parameters for connecting to AD for authenticating users. "
 "phpIPAM uses"
 msgstr ""
 
 #: site/admin/manageAD_AD.php:17 site/admin/manageAD_LDAP.php:17
-msgid "to authenticate users. If you need additional settings please take a look at "
+msgid ""
+"to authenticate users. If you need additional settings please take a look at "
 "functions/adLDAP or check online documentation!"
 msgstr ""
 
 #: site/admin/manageAD_AD.php:20
-msgid "First create new user under user management with <u>same username as on AD</u>"
-" and set usertype to domain user. Also set proper permissions - group membership "
-"for new user."
+msgid ""
+"First create new user under user management with <u>same username as on AD</"
+"u> and set usertype to domain user. Also set proper permissions - group "
+"membership for new user."
 msgstr ""
 
 #: site/admin/manageAD_AD.php:29 site/admin/manageAD_LDAP.php:29
@@ -1670,7 +1685,8 @@ msgid "Domain controllers"
 msgstr ""
 
 #: site/admin/manageAD_AD.php:43 site/admin/manageAD_LDAP.php:42
-msgid "Enter domain controllers, separated by ; (default: dc1.domain.local;dc2."
+msgid ""
+"Enter domain controllers, separated by ; (default: dc1.domain.local;dc2."
 "domain.local)"
 msgstr ""
 
@@ -1679,7 +1695,8 @@ msgid "Base DN"
 msgstr ""
 
 #: site/admin/manageAD_AD.php:54
-msgid "Enter base DN for LDAP (default: CN=Users,CN=Company,DC=domain,DC=local)"
+msgid ""
+"Enter base DN for LDAP (default: CN=Users,CN=Company,DC=domain,DC=local)"
 "<br>\n"
 "\t\tIf this is set to null then adLDAP will attempt to obtain this "
 "automatically from the rootDSE"
@@ -1708,7 +1725,8 @@ msgid "true"
 msgstr ""
 
 #: site/admin/manageAD_AD.php:80 site/admin/manageAD_LDAP.php:69
-msgid "Use SSL (LDAPS), your server needs to be setup (default: false), please see"
+msgid ""
+"Use SSL (LDAPS), your server needs to be setup (default: false), please see"
 msgstr ""
 
 #: site/admin/manageAD_AD.php:87 site/admin/manageAD_LDAP.php:76
@@ -1716,7 +1734,8 @@ msgid "Use TLS"
 msgstr ""
 
 #: site/admin/manageAD_AD.php:95 site/admin/manageAD_LDAP.php:84
-msgid "If you wish to use TLS you should ensure that useSSL is set to false and "
+msgid ""
+"If you wish to use TLS you should ensure that useSSL is set to false and "
 "vice-versa (default: false)"
 msgstr ""
 
@@ -1799,7 +1818,8 @@ msgid "Filter which fields to display in IP list"
 msgstr ""
 
 #: site/admin/filterIPFields.php:36
-msgid "You can select which fields are actually being used for IP management, so "
+msgid ""
+"You can select which fields are actually being used for IP management, so "
 "you dont show any overhead if not used. IP, hostname and description are "
 "mandatory"
 msgstr ""
@@ -1906,11 +1926,13 @@ msgid "All groups"
 msgstr ""
 
 #: site/admin/users.php:116
-msgid "Adminstrator users will be able to view and edit all all sections and subnets"
+msgid ""
+"Adminstrator users will be able to view and edit all all sections and subnets"
 msgstr ""
 
 #: site/admin/users.php:117
-msgid "Normal users will have premissions set based on group access to sections and "
+msgid ""
+"Normal users will have premissions set based on group access to sections and "
 "subnets"
 msgstr ""
 
@@ -2043,7 +2065,8 @@ msgid "Local authenticates here"
 msgstr ""
 
 #: site/admin/usersEditPrint.php:101
-msgid "Domain authenticates on AD, but still needs to be setup here for permissions "
+msgid ""
+"Domain authenticates on AD, but still needs to be setup here for permissions "
 "etc."
 msgstr ""
 
@@ -2096,7 +2119,8 @@ msgid "phpIPAM database export"
 msgstr ""
 
 #: site/admin/export.php:16
-msgid "You can download MySQL dump of database or generate XLS file of IP addresses"
+msgid ""
+"You can download MySQL dump of database or generate XLS file of IP addresses"
 msgstr ""
 
 #: site/admin/export.php:19
@@ -2180,7 +2204,8 @@ msgid "+ Add new VLAN"
 msgstr ""
 
 #: site/admin/manageSubnetEdit.php:166
-msgid "Enter master subnet if you want to nest it under existing subnet, or select "
+msgid ""
+"Enter master subnet if you want to nest it under existing subnet, or select "
 "root to create root subnet"
 msgstr ""
 
@@ -2236,7 +2261,8 @@ msgid "Show Subnet name instead of subnet IP address"
 msgstr ""
 
 #: site/admin/manageSubnetEdit.php:310
-msgid "Removing subnets will delete ALL underlaying subnets and belonging IP "
+msgid ""
+"Removing subnets will delete ALL underlaying subnets and belonging IP "
 "addresses"
 msgstr ""
 
@@ -2352,7 +2378,8 @@ msgid "Add new custom User field"
 msgstr ""
 
 #: site/admin/customIPFields.php:304
-msgid "You can add additional custom fields to IP addresses and subnets (like "
+msgid ""
+"You can add additional custom fields to IP addresses and subnets (like "
 "CustomerId, location, ...)"
 msgstr ""
 
@@ -2535,15 +2562,19 @@ msgstr ""
 #: site/admin/groupEditResult.php:23 site/admin/groupEditResult.php:24
 msgid "Group edit error"
 msgstr ""
+
 msgid "Group add error"
 msgstr ""
+
 msgid "Group delete error"
 msgstr ""
 
 msgid "Group edit success"
 msgstr ""
+
 msgid "Group add success"
 msgstr ""
+
 msgid "Group delete success"
 msgstr ""
 
@@ -2596,7 +2627,8 @@ msgid "Admin name"
 msgstr ""
 
 #: site/admin/settings.php:66
-msgid "Set administrator name to display when sending mails and for contact info"
+msgid ""
+"Set administrator name to display when sending mails and for contact info"
 msgstr ""
 
 #: site/admin/settings.php:72
@@ -2604,7 +2636,8 @@ msgid "Admin mail"
 msgstr ""
 
 #: site/admin/settings.php:77
-msgid "Set administrator e-mail to display when sending mails and for contact info"
+msgid ""
+"Set administrator e-mail to display when sending mails and for contact info"
 msgstr ""
 
 #: site/admin/settings.php:85
@@ -2628,7 +2661,8 @@ msgid "OpenLDAP authentication"
 msgstr ""
 
 #: site/admin/settings.php:99
-msgid "Set authentication type for users. Requires php LDAP support. Set connection "
+msgid ""
+"Set authentication type for users. Requires php LDAP support. Set connection "
 "settings in admin menu"
 msgstr ""
 
@@ -2661,7 +2695,8 @@ msgid "Resolve DNS names"
 msgstr ""
 
 #: site/admin/settings.php:143
-msgid "Check reverse dns lookups for IP addresses that do not have hostname in "
+msgid ""
+"Check reverse dns lookups for IP addresses that do not have hostname in "
 "database. (Activating this feature can significantly increase ip address "
 "pages loading time!)"
 msgstr ""
@@ -2695,7 +2730,8 @@ msgid "Don't show visual display"
 msgstr ""
 
 #: site/admin/settings.php:205
-msgid "Select netmask limit for visual display of IP addresses (mask equal or "
+msgid ""
+"Select netmask limit for visual display of IP addresses (mask equal or "
 "bigger than - more then /22 not recommended)"
 msgstr ""
 
@@ -2828,7 +2864,8 @@ msgid "Permissions info"
 msgstr ""
 
 #: site/admin/manageSection.php:92
-msgid "If group is not set in permissions then it will not have access to subnet"
+msgid ""
+"If group is not set in permissions then it will not have access to subnet"
 msgstr ""
 
 #: site/admin/manageSection.php:93
@@ -2836,16 +2873,19 @@ msgid "Groups with RO permissions will not be able to create new subnets"
 msgstr ""
 
 #: site/admin/manageSection.php:94
-msgid "Subnet permissions must be set separately. By default if group has access to "
+msgid ""
+"Subnet permissions must be set separately. By default if group has access to "
 "section<br>it will have same permission on subnets"
 msgstr ""
 
 #: site/admin/manageSection.php:95
-msgid "You can choose to delegate section permissions to all underlying subnets"
+msgid ""
+"You can choose to delegate section permissions to all underlying subnets"
 msgstr ""
 
 #: site/admin/manageSection.php:96
-msgid "If group does not have access to section it will not be able to access "
+msgid ""
+"If group does not have access to section it will not be able to access "
 "subnet, even if<br>subnet permissions are set"
 msgstr ""
 
@@ -2936,7 +2976,8 @@ msgid "Strict Mode"
 msgstr ""
 
 #: site/admin/manageSectionEdit.php:65
-msgid "No disables overlapping subnet checks. Subnets can be nested/created "
+msgid ""
+"No disables overlapping subnet checks. Subnets can be nested/created "
 "randomly. Anarchy."
 msgstr ""
 
@@ -2995,13 +3036,16 @@ msgid "No VLANs configured"
 msgstr ""
 
 #: site/admin/manageAD_LDAP.php:17
-msgid "Here you can set parameters for connecting to OpenLDAP for authenticating "
+msgid ""
+"Here you can set parameters for connecting to OpenLDAP for authenticating "
 "users. phpIPAM uses"
 msgstr ""
 
 #: site/admin/manageAD_LDAP.php:20
-msgid "First create new user under user management with <u>same username as on "
-"LDAP</u> and set usertype to domain user. Also set proper groups (premissions) for this user."
+msgid ""
+"First create new user under user management with <u>same username as on "
+"LDAP</u> and set usertype to domain user. Also set proper groups "
+"(premissions) for this user."
 msgstr ""
 
 #: site/admin/manageAD_LDAP.php:38
@@ -3009,7 +3053,8 @@ msgid "OpenLDAP servers"
 msgstr ""
 
 #: site/admin/manageAD_LDAP.php:54
-msgid "Enter base DN for LDAP (default: CN=Users,CN=Company,DC=domain,DC=local)"
+msgid ""
+"Enter base DN for LDAP (default: CN=Users,CN=Company,DC=domain,DC=local)"
 msgstr ""
 
 #: site/admin/manageAD_LDAP.php:91
@@ -3105,7 +3150,8 @@ msgid "XLS / CSV subnet import"
 msgstr ""
 
 #: site/admin/CSVimport.php:42
-msgid "To successfully import data please use the following XLS/CSV structure:<br>"
+msgid ""
+"To successfully import data please use the following XLS/CSV structure:<br>"
 "( ip | State | Description | hostname | MAC | Owner | Device | Port | Note "
 msgstr ""
 
@@ -3170,7 +3216,9 @@ msgid "Group under current"
 msgstr ""
 
 #: site/admin/manageSubnetsplit.php:107
-msgid "You can split subnet to smaller subnets by specifying new subnets. Please note:"
+msgid ""
+"You can split subnet to smaller subnets by specifying new subnets. Please "
+"note:"
 msgstr ""
 
 #: site/admin/manageSubnetsplit.php:109
@@ -3182,7 +3230,8 @@ msgid "Group under current will create new nested subnets under current one"
 msgstr ""
 
 #: site/admin/manageSubnetsplit.php:111
-msgid "If existing IP will fall to subnet/broadcast of new subnets split will fail, "
+msgid ""
+"If existing IP will fall to subnet/broadcast of new subnets split will fail, "
 "except if strict mode is disabled"
 msgstr ""
 
@@ -3195,16 +3244,19 @@ msgid "New mask"
 msgstr ""
 
 #: site/admin/manageSubnetresize.php:59
-msgid "You can change subnet size by specifying new mask (bigger or smaller). "
+msgid ""
+"You can change subnet size by specifying new mask (bigger or smaller). "
 "Please note"
 msgstr ""
 
 #: site/admin/manageSubnetresize.php:61
-msgid "If subnet has hosts outside of resized subnet resizing will not be possible"
+msgid ""
+"If subnet has hosts outside of resized subnet resizing will not be possible"
 msgstr ""
 
 #: site/admin/manageSubnetresize.php:62
-msgid "If strict mode is enabled check will be made to ensure it is still inside "
+msgid ""
+"If strict mode is enabled check will be made to ensure it is still inside "
 "master subnet"
 msgstr ""
 
@@ -3243,7 +3295,8 @@ msgid "Number of IP addresses"
 msgstr ""
 
 #: site/admin/manageSubnettruncate.php:51
-msgid "Truncating network will remove all IP addresses, that belong to selected "
+msgid ""
+"Truncating network will remove all IP addresses, that belong to selected "
 "subnet!"
 msgstr ""
 
@@ -3413,7 +3466,8 @@ msgid "Your email address"
 msgstr ""
 
 #: site/login/requestIPform.php:128
-msgid "If there is anything else you want to say about request write it in this box"
+msgid ""
+"If there is anything else you want to say about request write it in this box"
 msgstr ""
 
 #: site/login/requestIPform.php:136
@@ -3826,8 +3880,7 @@ msgstr ""
 msgid "To apply language change please log in again"
 msgstr ""
 
-#: site/dashboard/top10_percentage.php
-#: site/dashboard/top10_hosts.php
+#: site/dashboard/top10_percentage.php site/dashboard/top10_hosts.php
 msgid "No IPv4 hosts configured"
 msgstr ""
 
@@ -3844,9 +3897,6 @@ msgid "Add some hosts to subnets to show graph of used hosts per subnet"
 msgstr ""
 
 #: site/admin/usersEditPrint.php
-msgid "edit user"
-msgstr""
-
 msgid "delete user"
 msgstr ""
 
@@ -3891,7 +3941,9 @@ msgid "Ping status intervals"
 msgstr ""
 
 #: site/admin/settings.php
-msgid "Ping status intervals for IP addresses in seconds - warning;offline (Default: 1800;3600)"
+msgid ""
+"Ping status intervals for IP addresses in seconds - warning;offline "
+"(Default: 1800;3600)"
 msgstr ""
 
 #: site/admin/settingsEdit.php
@@ -3975,7 +4027,9 @@ msgid "Section order"
 msgstr ""
 
 #: site/admin/manageSectionOrder.php
-msgid "You can manually set order in which sections are displayed in. Default is creation date."
+msgid ""
+"You can manually set order in which sections are displayed in. Default is "
+"creation date."
 msgstr ""
 
 #: site/admin/manageSectionOrder.php
@@ -3995,7 +4049,9 @@ msgid "Default"
 msgstr ""
 
 #: site/ipaddr/subnetDiscoveryPing.php
-msgid "Threading is required for scanning subnets. Please recompile PHP with pcntl extension"
+msgid ""
+"Threading is required for scanning subnets. Please recompile PHP with pcntl "
+"extension"
 msgstr ""
 
 #: site/ipaddr/subnetDiscoveryPing.php
@@ -4022,8 +4078,7 @@ msgstr ""
 msgid "Please enable API module under server management"
 msgstr ""
 
-#: site/admin/adminMenu.php
-#: site/admin/api.php
+#: site/admin/adminMenu.php site/admin/api.php
 msgid "API management"
 msgstr ""
 
