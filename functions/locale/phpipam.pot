@@ -1,0 +1,4288 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-29 22:16-0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: index.php:116
+msgid "Loading"
+msgstr ""
+
+#: index.php:121
+msgid "login"
+msgstr ""
+
+#: index.php:121
+msgid "installation"
+msgstr ""
+
+#: index.php:199 site/tools/showAll.php:4
+msgid "Please select tool from left menu!"
+msgstr ""
+
+#: index.php:202
+msgid "Please select setting from left menu!"
+msgstr ""
+
+#: site/userMenu.php:22
+msgid "Search string"
+msgstr ""
+
+#: site/userMenu.php:22 site/admin/ripeImport.php:19
+#: site/admin/userADsearchForm.php:24 site/sections.php:160
+#: site/tools/changelog.php:33 site/tools/toolsMenu.php:38
+msgid "Search"
+msgstr ""
+
+#: site/userMenu.php:28
+msgid "Hi"
+msgstr ""
+
+#: site/userMenu.php:29
+msgid "Logged in as"
+msgstr ""
+
+#: site/userMenu.php:32
+msgid "Logout"
+msgstr ""
+
+#: site/subnets.php:29
+msgid "Sorry, must be admin"
+msgstr ""
+
+#: site/subnets.php:50
+msgid "Belonging subsections"
+msgstr ""
+
+#: site/subnets.php:72
+msgid "You do not have access to this section"
+msgstr ""
+
+#: site/subnets.php:75
+msgid "Section does not exist"
+msgstr ""
+
+#: site/subnets.php:90
+msgid "Back to"
+msgstr ""
+
+#: site/subnets.php:94 site/ipaddr/sectionAllSubnets.php:18
+#: site/tools/subnets.php:17
+msgid "Available subnets"
+msgstr ""
+
+#: site/subnets.php:94
+msgid "Expand/compress all folders"
+msgstr ""
+
+#: site/subnets.php:116
+msgid "Available VLANs"
+msgstr ""
+
+#: site/subnets.php:133
+msgid "Available VRFs"
+msgstr ""
+
+#: site/subnets.php:147
+msgid "Hide subnet list"
+msgstr ""
+
+#: site/subnets.php:149
+msgid "Add new"
+msgstr ""
+
+#: site/subnets.php:151
+msgid "Add new subnet to"
+msgstr ""
+
+#: site/subnets.php:152
+msgid "Add new folder to"
+msgstr ""
+
+#: site/admin/groupEditResult.php:14 site/admin/languageEditResult.php:15
+msgid "Name must be at least 2 characters long"
+msgstr ""
+
+#: site/admin/userADsearchResult.php:55
+msgid "Please enter at least 2 characters"
+msgstr ""
+
+#: site/admin/userADsearchResult.php:61
+msgid "No users found"
+msgstr ""
+
+#: site/admin/userADsearchResult.php:62
+msgid "Possible reasons"
+msgstr ""
+
+#: site/admin/userADsearchResult.php:64
+msgid "Username not existing"
+msgstr ""
+
+#: site/admin/userADsearchResult.php:65
+msgid "Invalid baseDN setting for AD"
+msgstr ""
+
+#: site/admin/userADsearchResult.php:66
+msgid "AD account does not have enough privileges for search"
+msgstr ""
+
+#: site/admin/userADsearchResult.php:69
+msgid " Following users were found"
+msgstr ""
+
+#: site/admin/userADsearchResult.php:83
+msgid "Select"
+msgstr ""
+
+#: site/admin/manageRequestResultMail.php:14 site/login/requestIPresult.php:35
+msgid "Sending mail for new IP request failed"
+msgstr ""
+
+#: site/admin/manageRequestResultMail.php:15 site/login/requestIPresult.php:36
+msgid "Sending mail for IP request succeeded"
+msgstr ""
+
+#: site/admin/filterIPFieldsResult.php:14
+msgid "Update failed"
+msgstr ""
+
+#: site/admin/filterIPFieldsResult.php:15
+msgid "Update successfull"
+msgstr ""
+
+#: site/admin/manageSubnetsplit.php:12 site/admin/manageSubnetresize.php:12
+#: site/admin/manageSubnetSplitSave.php:12
+#: site/admin/manageSubnetResizeSave.php:12
+msgid "You do not have permissions to resize subnet"
+msgstr ""
+
+#: site/admin/manageSubnetsplit.php:53 site/admin/manageSubnetsplit.php:122
+#: site/admin/manageSubnetEdit.php:227
+msgid "Split subnet"
+msgstr ""
+
+#: site/admin/manageSubnetsplit.php:64 site/admin/manageSubnetresize.php:35
+#: site/admin/manageSubnet.php:76 site/admin/manageRequests.php:24
+#: site/admin/manageSubnetEdit.php:81 site/admin/ripeImportTelnet.php:80
+#: site/admin/manageSubnettruncate.php:37 site/ipaddr/ipDetails.php:78
+#: site/ipaddr/subnetChangelog.php:18 site/ipaddr/scan/subnetScan.php:42
+#: site/ipaddr/vrfSubnets.php:27 site/ipaddr/folderDetailsSubnets.php:61
+#: site/ipaddr/ipAddressPrintTableSlaves.php:34 site/ipaddr/vlanSubnets.php:27
+#: site/ipaddr/sectionAllSubnets.php:57 site/tools/subnets.php:45
+#: site/tools/vrf.php:44 site/tools/devices.php:68
+#: site/tools/searchResults.php:257 site/tools/favourites.php:34
+#: site/dashboard/widgets/favourite_subnets.php:31
+#: functions/functions-mail.php:264 functions/functions-mail.php:279
+#: functions/functions-mail.php:361 functions/functions-mail.php:382
+msgid "Subnet"
+msgstr ""
+
+#: site/admin/manageSubnetsplit.php:70
+msgid "Number of subnets"
+msgstr ""
+
+#: site/admin/manageSubnetsplit.php:85
+msgid "Group under current"
+msgstr ""
+
+#: site/admin/manageSubnetsplit.php:88 site/admin/manageSectionEdit.php:83
+#: site/admin/manageSectionEdit.php:95 site/admin/manageSectionEdit.php:107
+#: site/admin/manageSection.php:75 site/admin/manageSection.php:83
+#: site/admin/manageSection.php:89 site/admin/CSVimportShowFile.php:119
+msgid "No"
+msgstr ""
+
+#: site/admin/manageSubnetsplit.php:89 site/admin/manageSectionEdit.php:82
+#: site/admin/manageSectionEdit.php:94 site/admin/manageSectionEdit.php:106
+#: site/admin/manageSection.php:76 site/admin/manageSection.php:82
+#: site/admin/manageSection.php:88 site/admin/CSVimportShowFile.php:118
+msgid "Yes"
+msgstr ""
+
+#: site/admin/manageSubnetsplit.php:96 site/admin/manageSection.php:49
+msgid "Strict mode"
+msgstr ""
+
+#: site/admin/manageSubnetsplit.php:107
+msgid ""
+"You can split subnet to smaller subnets by specifying new subnets. Please "
+"note:"
+msgstr ""
+
+#: site/admin/manageSubnetsplit.php:109
+msgid "Existing IP addresses will be assigned to new subnets"
+msgstr ""
+
+#: site/admin/manageSubnetsplit.php:110
+msgid "Group under current will create new nested subnets under current one"
+msgstr ""
+
+#: site/admin/manageSubnetsplit.php:111
+msgid ""
+"If existing IP will fall to subnet/broadcast of new subnets split will fail, "
+"except if strict mode is disabled"
+msgstr ""
+
+#: site/admin/manageSubnetsplit.php:121 site/admin/usersEditPrint.php:247
+#: site/admin/groupRemoveUsers.php:76 site/admin/manageSectionEdit.php:216
+#: site/admin/manageRequestEdit.php:201 site/admin/manageSubnetresize.php:72
+#: site/admin/languageEdit.php:70 site/admin/manageSubnetEdit.php:343
+#: site/admin/groupEditPrint.php:78
+#: site/admin/manageSubnetShowPermissions.php:96 site/admin/apiEdit.php:103
+#: site/admin/manageDevicesEdit.php:163 site/admin/manageSectionOrder.php:82
+#: site/admin/manageVRFEdit.php:74 site/admin/manageFolderEdit.php:164
+#: site/admin/manageSubnettruncate.php:60 site/admin/userADsearchForm.php:36
+#: site/admin/manageVLANEdit.php:105 site/ipaddr/scan/subnetScan.php:15
+#: site/ipaddr/scan/subnetScan.php:24 site/ipaddr/scan/subnetScan.php:85
+#: site/ipaddr/mailNotifyIP.php:127 site/ipaddr/exportSelectFields.php:120
+#: site/ipaddr/moveIpAddress.php:109 site/ipaddr/modifyIpAddress.php:36
+#: site/ipaddr/modifyIpAddress.php:355 site/tools/requestIPform.php:71
+msgid "Cancel"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:38 site/admin/usersEditPrint.php:47
+msgid "Add new user"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:66 site/tools/userMenu.php:31
+msgid "Real name"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:68
+msgid "Enter users real name"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:73 site/admin/users.php:41
+#: site/admin/groupRemoveUsers.php:41 site/admin/manageAD_AD.php:74
+#: site/admin/userADsearchForm.php:23 site/admin/logsExport.php:61
+#: site/admin/logResult.php:26 site/admin/groupAddUsers.php:41
+#: site/login/loginForm.php:11 site/login/loginForm.php:13
+#: site/dashboard/widgets/error_logs.php:18
+#: site/dashboard/widgets/access_logs.php:18 functions/functions-mail.php:159
+#: functions/functions-mail.php:165 functions/functions-mail.php:182
+#: functions/functions-mail.php:188
+msgid "Username"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:77
+msgid "Enter username"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:83
+msgid "e-mail"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:85
+msgid "Enter users email address"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:98
+msgid "User Type"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:103 site/admin/users.php:83
+msgid "Local user"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:106 site/admin/users.php:86
+msgid "Domain user"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:110
+msgid "Set user type"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:112
+msgid "Local authenticates here"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:113
+msgid ""
+"Domain authenticates on AD, but still needs to be setup here for permissions "
+"etc."
+msgstr ""
+
+#: site/admin/usersEditPrint.php:125 site/admin/users.php:44
+#: site/tools/userMenu.php:72
+msgid "Language"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:136 site/tools/userMenu.php:83
+msgid "Select language"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:141 site/admin/usersEditPrint.php:148
+#: site/admin/manageAD_AD.php:75 site/tools/userMenu.php:53
+#: site/tools/userMenu.php:57 site/tools/userMenu.php:62
+#: site/login/loginForm.php:19 site/login/loginForm.php:21
+#: functions/functions-mail.php:161 functions/functions-mail.php:166
+#: functions/functions-mail.php:184 functions/functions-mail.php:189
+msgid "Password"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:143
+msgid "User's password"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:143
+msgid "click to generate random"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:150 site/tools/userMenu.php:66
+msgid "Re-type password"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:155
+msgid "Notification"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:157
+msgid "Send notification email to user with account details"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:162
+msgid "User role"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:165 site/admin/users.php:64
+msgid "Administrator"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:166
+msgid "Normal User"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:174
+msgid "Select user role"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:176
+msgid "Administrator is almighty"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:177
+msgid "Users have access defined based on groups"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:184 site/admin/users.php:46
+#: site/sections.php:200
+msgid "Groups"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:204
+msgid "No groups configured"
+msgstr ""
+
+#: site/admin/usersEditPrint.php:209
+msgid "Select to which groups the user belongs to"
+msgstr ""
+
+#: site/admin/manageVLANdropdownReload.php:16
+#: site/admin/manageSubnetEdit.php:133 site/admin/manageSubnetEdit.php:162
+msgid "Select VLAN"
+msgstr ""
+
+#: site/admin/manageVLANdropdownReload.php:23
+#: site/admin/manageSubnetEdit.php:140
+msgid "No VLAN"
+msgstr ""
+
+#: site/admin/manageVLANdropdownReload.php:26
+msgid "Add"
+msgstr ""
+
+#: site/admin/manageVLANdropdownReload.php:27
+#: site/admin/manageSubnetEdit.php:144
+msgid "+ Add new VLAN"
+msgstr ""
+
+#: site/admin/manageADresult.php:16
+msgid "Failed to update AD settings"
+msgstr ""
+
+#: site/admin/manageADresult.php:17
+msgid "AD settings updated"
+msgstr ""
+
+#: site/admin/users.php:27 site/admin/adminMenu.php:20
+msgid "User management"
+msgstr ""
+
+#: site/admin/users.php:31
+msgid "Create user"
+msgstr ""
+
+#: site/admin/users.php:40
+msgid "Real Name"
+msgstr ""
+
+#: site/admin/users.php:42 site/tools/userMenu.php:40
+msgid "E-mail"
+msgstr ""
+
+#: site/admin/users.php:43 functions/functions-mail.php:169
+#: functions/functions-mail.php:192
+msgid "Role"
+msgstr ""
+
+#: site/admin/users.php:45 site/admin/manageDevices.php:36
+#: site/ipaddr/modifyIpAddress.php:245 site/tools/changelogPrint.php:39
+msgid "Type"
+msgstr ""
+
+#: site/admin/users.php:85
+msgid "LDAP user"
+msgstr ""
+
+#: site/admin/users.php:91
+msgid "All groups"
+msgstr ""
+
+#: site/admin/users.php:130
+msgid ""
+"Adminstrator users will be able to view and edit all all sections and subnets"
+msgstr ""
+
+#: site/admin/users.php:131
+msgid ""
+"Normal users will have premissions set based on group access to sections and "
+"subnets"
+msgstr ""
+
+#: site/admin/logDetail.php:23 site/admin/logs.php:16
+#: site/admin/logsExport.php:72 site/admin/logResult.php:16
+#: site/admin/logResult.php:40 site/admin/logResult.php:76
+msgid "Informational"
+msgstr ""
+
+#: site/admin/logDetail.php:27 site/admin/logs.php:17
+#: site/admin/logResult.php:17 site/admin/logResult.php:45
+#: site/admin/logResult.php:80
+msgid "Notice"
+msgstr ""
+
+#: site/admin/logDetail.php:31 site/admin/manageSectionEdit.php:207
+#: site/admin/manageSubnetEdit.php:332 site/admin/manageAD_LDAP.php:29
+#: site/admin/manageFolderEdit.php:153 site/admin/logs.php:18
+#: site/admin/logsExport.php:73 site/admin/logResult.php:18
+#: site/admin/logResult.php:51 site/admin/logResult.php:84
+#: site/admin/manageVLANEdit.php:97
+msgid "Warning"
+msgstr ""
+
+#: site/admin/logDetail.php:44
+msgid "Log details"
+msgstr ""
+
+#: site/admin/logDetail.php:53
+msgid "Log ID"
+msgstr ""
+
+#: site/admin/logDetail.php:57 site/admin/logResult.php:28
+msgid "Event"
+msgstr ""
+
+#: site/admin/logDetail.php:61 site/admin/logsExport.php:59
+#: site/admin/logResult.php:25 site/dashboard/widgets/error_logs.php:15
+#: site/dashboard/widgets/access_logs.php:15
+msgid "Severity"
+msgstr ""
+
+#: site/admin/logDetail.php:65 site/admin/sectionChangelog.php:40
+#: site/admin/logsExport.php:60 site/admin/logResult.php:24
+#: site/ipaddr/subnetChangelog.php:41 site/ipaddr/ipDetailsChangelog.php:37
+#: site/tools/changelogPrint.php:43 site/dashboard/widgets/error_logs.php:17
+#: site/dashboard/widgets/access_logs.php:17
+msgid "Date"
+msgstr ""
+
+#: site/admin/logDetail.php:69
+msgid "User details"
+msgstr ""
+
+#: site/admin/logDetail.php:73 site/admin/manageRequestEdit.php:65
+#: site/admin/manageDevicesEdit.php:46 site/admin/manageDevicesEdit.php:48
+#: site/admin/manageRequestResult.php:54 site/admin/manageRequestResult.php:58
+#: site/admin/manageDevices.php:35 site/admin/logResult.php:27
+#: site/ipaddr/modifyIpAddressCheck.php:148
+#: site/ipaddr/modifyIpAddressCheck.php:201
+#: site/ipaddr/modifyIpAddressCheck.php:210 site/ipaddr/ipDetails.php:58
+#: site/ipaddr/ipAddressPrintTable.php:170 site/ipaddr/pingCheck.php:40
+#: site/ipaddr/pingCheck.php:42 site/ipaddr/ipAddressPrintTableOrphaned.php:79
+#: site/ipaddr/mailNotifyIP.php:43 site/ipaddr/exportSelectFields.php:38
+#: site/ipaddr/moveIpAddress.php:43 site/ipaddr/modifyIpAddress.php:105
+#: site/ipaddr/modifyIpAddress.php:117 site/ipaddr/modifyIpAddress.php:119
+#: site/tools/requestIPform.php:12 site/tools/ipCalc.php:15
+#: site/tools/devices.php:66 site/tools/searchResults.php:106
+msgid "IP address"
+msgstr ""
+
+#: site/admin/logDetail.php:77 site/admin/logsExport.php:63
+msgid "Details"
+msgstr ""
+
+#: site/admin/logDetail.php:88 site/admin/CSVimport.php:184
+#: site/ipaddr/pingCheck.php:50
+msgid "Close window"
+msgstr ""
+
+#: site/admin/groupRemoveUsers.php:25
+msgid "Remove users from group"
+msgstr ""
+
+#: site/admin/groupRemoveUsers.php:40 site/admin/manageSectionEdit.php:40
+#: site/admin/manageSection.php:46 site/admin/manageSectionOrder.php:45
+#: site/admin/manageVRFEdit.php:36 site/admin/manageFolderEdit.php:73
+#: site/admin/customFieldsEdit.php:42 site/admin/manageVRF.php:34
+#: site/admin/manageVLANs.php:34 site/admin/manageVLANEdit.php:50
+#: site/admin/groupAddUsers.php:40 site/ipaddr/vlanDetails.php:39
+#: site/ipaddr/vrfDetails.php:36 site/tools/vlan.php:26
+#: site/tools/searchResults.php:341 functions/functions-mail.php:156
+#: functions/functions-mail.php:179
+msgid "Name"
+msgstr ""
+
+#: site/admin/groupRemoveUsers.php:42 site/admin/groupAddUsers.php:42
+#: functions/functions-mail.php:168 functions/functions-mail.php:191
+msgid "Email"
+msgstr ""
+
+#: site/admin/groupRemoveUsers.php:67
+msgid "No users in this group"
+msgstr ""
+
+#: site/admin/groupRemoveUsers.php:78
+msgid "Remove selected users"
+msgstr ""
+
+#: site/admin/manageVLANEditResult.php:23
+msgid "VLAN already exists"
+msgstr ""
+
+#: site/admin/manageVLANEditResult.php:44
+msgid "Number is mandatory"
+msgstr ""
+
+#: site/admin/ripeImport.php:12
+msgid "Import subnets from RIPE"
+msgstr ""
+
+#: site/admin/ripeImport.php:15
+msgid ""
+"This script imports subnets from RIPE database for specific AS. Enter "
+"desired AS to search for subnets"
+msgstr ""
+
+#: site/admin/ripeImport.php:19
+msgid "AS number"
+msgstr ""
+
+#: site/admin/exportGenerateHostDump.php:27
+#: site/admin/manageSectionEdit.php:26 site/admin/sectionChangelog.php:17
+#: site/admin/manageSubnetEdit.php:108 site/admin/manageFolderEdit.php:83
+#: site/tools/vlan.php:29 site/tools/searchResultsExport.php:269
+#: site/tools/searchResults.php:256 site/tools/searchResults.php:345
+#: site/tools/favourites.php:36
+#: site/dashboard/widgets/favourite_subnets.php:33
+#: functions/functions-mail.php:263 functions/functions-mail.php:278
+#: functions/functions-mail.php:360 functions/functions-mail.php:381
+msgid "Section"
+msgstr ""
+
+#: site/admin/customFields.php:44 site/admin/adminMenu.php:89
+msgid "Custom fields"
+msgstr ""
+
+#: site/admin/customFields.php:47
+msgid ""
+"You can add additional custom fields to IP addresses and subnets (like "
+"CustomerId, location, ...)"
+msgstr ""
+
+#: site/admin/customFields.php:82 site/admin/languages.php:29
+msgid "No custom fields created yet"
+msgstr ""
+
+#: site/admin/customFields.php:105
+msgid "Required"
+msgstr ""
+
+#: site/admin/customFields.php:116
+msgid "Invalid field name"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:42
+msgid "Section name"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:51 site/admin/manageSection.php:47
+#: site/admin/manageRequestEdit.php:74 site/admin/manageSubnet.php:77
+#: site/admin/manageRequests.php:26 site/admin/manageSubnetEdit.php:98
+#: site/admin/groupEditPrint.php:57 site/admin/apiEdit.php:84
+#: site/admin/CSVimportShowFile.php:66 site/admin/manageDevicesEdit.php:94
+#: site/admin/manageDevicesEdit.php:96 site/admin/manageSectionOrder.php:46
+#: site/admin/manageVRFEdit.php:51 site/admin/manageVRFEdit.php:57
+#: site/admin/ripeImportTelnet.php:96 site/admin/replaceFields.php:27
+#: site/admin/manageDevices.php:40 site/admin/customFieldsEdit.php:54
+#: site/admin/manageVRF.php:36 site/admin/manageVLANs.php:36
+#: site/admin/manageVLANEdit.php:58 site/admin/manageVLANEdit.php:60
+#: site/ipaddr/ipDetails.php:64 site/ipaddr/vlanDetails.php:45
+#: site/ipaddr/scan/subnetScanDiscoveryPing.php:93
+#: site/ipaddr/scan/subnetScanUpdatePing.php:75
+#: site/ipaddr/ipAddressPrintTable.php:176 site/ipaddr/vrfDetails.php:42
+#: site/ipaddr/ipAddressPrintTableOrphaned.php:85
+#: site/ipaddr/mailNotifyIP.php:46 site/ipaddr/exportSelectFields.php:51
+#: site/ipaddr/moveIpAddress.php:57 site/ipaddr/modifyIpAddress.php:136
+#: site/ipaddr/modifyIpAddress.php:140 site/ipaddr/sectionAllSubnets.php:58
+#: site/tools/subnets.php:46 site/tools/vrf.php:43 site/tools/vlan.php:27
+#: site/tools/requestIPform.php:29 site/tools/searchResultsExport.php:272
+#: site/tools/devices.php:69 site/tools/searchResults.php:109
+#: site/tools/searchResults.php:258 site/tools/searchResults.php:343
+#: site/tools/favourites.php:35 site/login/requestIPform.php:82
+#: site/dashboard/widgets/favourite_subnets.php:32
+#: functions/functions-mail.php:265 functions/functions-mail.php:280
+#: functions/functions-mail.php:365 functions/functions-mail.php:386
+msgid "Description"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:53
+msgid "Section description"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:59 site/admin/manageSection.php:48
+msgid "Parent"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:73
+msgid "Select parent section to create subsection"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:79
+msgid "Strict Mode"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:85
+msgid ""
+"No disables overlapping subnet checks. Subnets can be nested/created "
+"randomly. Anarchy."
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:91 site/admin/manageSection.php:50
+msgid "Show VLANs"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:97
+msgid "Show list of VLANs and belonging subnets in subnet list"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:103 site/admin/manageSection.php:51
+msgid "Show VRFs"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:109
+msgid "Show list of VRFs and belonging subnets in subnet list"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:115 site/admin/settings.php:314
+msgid "Subnet ordering"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:120
+msgid "Default"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:121 site/admin/settings.php:319
+msgid "Subnet, ascending"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:122 site/admin/settings.php:320
+msgid "Subnet, descending"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:123 site/admin/settings.php:321
+msgid "Description, ascending"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:124 site/admin/settings.php:322
+msgid "Description, descending"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:134 site/admin/settings.php:334
+msgid "How to order display of subnets"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:159
+msgid "Permissions"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:194
+msgid "Delegate"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:196
+msgid "Check to delegate permissions to all subnets in section"
+msgstr ""
+
+#: site/admin/manageSectionEdit.php:207
+msgid "Deleting Section will delete all belonging subnets and IP addresses"
+msgstr ""
+
+#: site/admin/apiEditResult.php:28 site/admin/manageSubnetEdit.php:17
+#: site/admin/manageSubnetEdit.php:24 site/admin/manageFolderEdit.php:17
+#: site/admin/manageFolderEdit.php:24 site/ipaddr/modifyIpAddressCheck.php:116
+#: site/ipaddr/modifyIpAddressCheck.php:117
+#: site/ipaddr/modifyIpAddressCheck.php:193
+#: site/ipaddr/scan/subnetScanDiscoveryPingResult.php:38
+#: site/ipaddr/pingCheck.php:38 site/ipaddr/pingCheck.php:44
+#: site/tools/favouriteEdit.php:17 functions/functions-install.php:85
+#: functions/functions-install.php:127 functions/functions-install.php:150
+#: functions/functions-install.php:179 functions/functions-install.php:196
+#: functions/functions-install.php:228 functions/functions-install.php:245
+#: functions/functions-install.php:282 functions/functions-install.php:322
+#: functions/functions-install.php:433 functions/functions-install.php:508
+#: functions/functions-install.php:550 functions/functions-install.php:579
+#: functions/functions-install.php:604 functions/functions-tools.php:221
+#: functions/functions-tools.php:242 functions/functions-tools.php:285
+#: functions/functions-tools.php:312 functions/functions-tools.php:334
+#: functions/functions-tools.php:356 functions/functions-tools.php:399
+#: functions/functions-tools.php:583 functions/functions-tools.php:647
+#: functions/functions-tools.php:683 functions/functions-tools.php:823
+#: functions/functions-tools.php:847 functions/functions-tools.php:869
+#: functions/functions-tools.php:891 functions/functions-tools.php:914
+#: functions/functions-tools.php:946 functions/functions-tools.php:972
+#: functions/functions-tools.php:1023 functions/functions-tools.php:1062
+#: functions/functions-tools.php:1086 functions/functions-tools.php:1111
+#: functions/functions-tools.php:1147 functions/functions-common.php:50
+#: functions/functions-common.php:111 functions/functions-common.php:160
+#: functions/functions-common.php:183 functions/functions-common.php:206
+#: functions/functions-common.php:229 functions/functions-common.php:252
+#: functions/functions-common.php:274 functions/functions-common.php:297
+#: functions/functions-common.php:320 functions/functions-common.php:393
+#: functions/functions-common.php:461 functions/functions-common.php:663
+#: functions/functions-common.php:687 functions/functions-common.php:720
+#: functions/functions-common.php:1350 functions/functions-admin.php:41
+#: functions/functions-admin.php:73 functions/functions-admin.php:147
+#: functions/functions-admin.php:186 functions/functions-admin.php:212
+#: functions/functions-admin.php:245 functions/functions-admin.php:286
+#: functions/functions-admin.php:432 functions/functions-admin.php:552
+#: functions/functions-admin.php:578 functions/functions-admin.php:1002
+#: functions/functions-admin.php:1315 functions/functions-admin.php:1395
+#: functions/functions-admin.php:1429 functions/functions-admin.php:1474
+#: functions/functions-admin.php:1565 functions/functions-admin.php:1689
+#: functions/functions-admin.php:1810 functions/functions-admin.php:1838
+#: functions/functions-admin.php:1895 functions/functions-admin.php:1946
+#: functions/functions-admin.php:2006 functions/functions-admin.php:2034
+#: functions/functions-admin.php:2068 functions/functions-admin.php:2090
+#: functions/functions-admin.php:2119 functions/functions-network.php:124
+#: functions/functions-network.php:150 functions/functions-network.php:176
+#: functions/functions-network.php:214 functions/functions-network.php:258
+#: functions/functions-network.php:282 functions/functions-network.php:323
+#: functions/functions-network.php:347 functions/functions-network.php:382
+#: functions/functions-network.php:406 functions/functions-network.php:430
+#: functions/functions-network.php:474 functions/functions-network.php:498
+#: functions/functions-network.php:535 functions/functions-network.php:559
+#: functions/functions-network.php:583 functions/functions-network.php:607
+#: functions/functions-network.php:631 functions/functions-network.php:666
+#: functions/functions-network.php:690 functions/functions-network.php:735
+#: functions/functions-network.php:759 functions/functions-network.php:783
+#: functions/functions-network.php:807 functions/functions-network.php:831
+#: functions/functions-network.php:867 functions/functions-network.php:891
+#: functions/functions-network.php:984 functions/functions-network.php:1013
+#: functions/functions-network.php:1037 functions/functions-network.php:1148
+#: functions/functions-network.php:1219 functions/functions-network.php:1302
+#: functions/functions-network.php:1626 functions/functions-network.php:1663
+#: functions/functions-network.php:1687 functions/functions-network.php:1740
+#: functions/functions-network.php:1800 functions/functions-network.php:1855
+#: functions/functions-network.php:1962 functions/functions-network.php:1989
+#: functions/functions-network.php:2014 functions/functions-network.php:2038
+#: functions/functions-network.php:2064 functions/functions-network.php:2092
+#: functions/functions-network.php:2126 functions/functions-network.php:2248
+#: functions/functions-network.php:2300 functions/functions-network.php:2618
+#: functions/functions-network.php:2727 functions/functions-network.php:2797
+#: functions/functions-network.php:2909 functions/functions-network.php:2935
+#: functions/functions-network.php:3042 functions/functions-network.php:3095
+msgid "Error"
+msgstr ""
+
+#: site/admin/CSVimport.php:17
+msgid "You cannot write to this subnet"
+msgstr ""
+
+#: site/admin/CSVimport.php:24
+msgid "XLS / CSV subnet import"
+msgstr ""
+
+#: site/admin/CSVimport.php:45
+msgid ""
+"To successfully import data please use the following XLS/CSV structure:<br>"
+"( ip | State | Description | hostname | MAC | Owner | Device | Port | Note "
+msgstr ""
+
+#: site/admin/CSVimport.php:54
+msgid "Upload file"
+msgstr ""
+
+#: site/admin/CSVimport.php:61
+msgid "Select CSV file"
+msgstr ""
+
+#: site/admin/CSVimport.php:171
+msgid "Import file"
+msgstr ""
+
+#: site/admin/CSVimport.php:175
+msgid "Show uploaded subnets"
+msgstr ""
+
+#: site/admin/manageSection.php:32 site/admin/adminMenu.php:59
+msgid "Section management"
+msgstr ""
+
+#: site/admin/manageSection.php:37
+msgid "Add section"
+msgstr ""
+
+#: site/admin/manageSection.php:38 site/admin/manageSectionOrder.php:27
+msgid "Section order"
+msgstr ""
+
+#: site/admin/manageSection.php:52
+msgid "Group Permissions"
+msgstr ""
+
+#: site/admin/manageSection.php:108
+msgid "All groups: No access"
+msgstr ""
+
+#: site/admin/manageSection.php:129
+msgid "No sections configured"
+msgstr ""
+
+#: site/admin/manageSection.php:135
+msgid "Permissions info"
+msgstr ""
+
+#: site/admin/manageSection.php:137
+msgid ""
+"If group is not set in permissions then it will not have access to subnet"
+msgstr ""
+
+#: site/admin/manageSection.php:138
+msgid "Groups with RO permissions will not be able to create new subnets"
+msgstr ""
+
+#: site/admin/manageSection.php:139
+msgid ""
+"Subnet permissions must be set separately. By default if group has access to "
+"section<br>it will have same permission on subnets"
+msgstr ""
+
+#: site/admin/manageSection.php:140
+msgid ""
+"You can choose to delegate section permissions to all underlying subnets"
+msgstr ""
+
+#: site/admin/manageSection.php:141
+msgid ""
+"If group does not have access to section it will not be able to access "
+"subnet, even if<br>subnet permissions are set"
+msgstr ""
+
+#: site/admin/languages.php:15 site/admin/adminMenu.php:44
+msgid "Languages"
+msgstr ""
+
+#: site/admin/languages.php:17
+msgid "You can edit different language translations here"
+msgstr ""
+
+#: site/admin/languages.php:20
+msgid "Create new language"
+msgstr ""
+
+#: site/admin/languages.php:34 site/admin/languageEdit.php:44
+msgid "Language code"
+msgstr ""
+
+#: site/admin/languages.php:35 site/admin/languageEdit.php:50
+msgid "Language name"
+msgstr ""
+
+#: site/admin/languages.php:36
+msgid "Validity"
+msgstr ""
+
+#: site/admin/languages.php:37
+msgid "Version"
+msgstr ""
+
+#: site/admin/languages.php:55
+msgid "Valid"
+msgstr ""
+
+#: site/admin/languages.php:56
+msgid "Invalid"
+msgstr ""
+
+#: site/admin/languages.php:79 site/admin/manageAD_LDAP.php:19
+#: site/admin/manageAD_AD.php:19 site/tools/toolsMenu.php:28
+msgid "Instructions"
+msgstr ""
+
+#: site/admin/languages.php:81
+msgid "Add translation file to directory functions/locale/ in phpipam"
+msgstr ""
+
+#: site/admin/languages.php:82
+msgid "Create new language with same code as translation file"
+msgstr ""
+
+#: site/admin/settingsEdit.php:27 site/admin/settingsEdit.php:28
+msgid "Invalid ping status intervals"
+msgstr ""
+
+#: site/admin/settingsEdit.php:31
+msgid "Cannot update settings"
+msgstr ""
+
+#: site/admin/settingsEdit.php:32
+msgid "Settings updated successfully"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:20
+msgid "Request does not exist"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:35
+msgid "Manage IP address request"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:46
+msgid "Requested subnet"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:76
+msgid "Enter IP description"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:81 site/admin/manageRequests.php:25
+#: site/admin/CSVimportShowFile.php:67 site/admin/manageDevicesEdit.php:38
+#: site/admin/manageDevicesEdit.php:40 site/admin/replaceFields.php:28
+#: site/admin/manageDevices.php:34 site/ipaddr/ipDetails.php:100
+#: site/ipaddr/scan/subnetScanDiscoveryPing.php:94
+#: site/ipaddr/ipAddressPrintTable.php:172
+#: site/ipaddr/ipAddressPrintTableOrphaned.php:81
+#: site/ipaddr/mailNotifyIP.php:50 site/ipaddr/exportSelectFields.php:56
+#: site/ipaddr/modifyIpAddress.php:151 site/tools/devices.php:70
+#: site/tools/searchResults.php:110 site/login/requestIPform.php:89
+#: functions/functions-mail.php:266 functions/functions-mail.php:281
+#: functions/functions-mail.php:366 functions/functions-mail.php:387
+msgid "Hostname"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:83
+msgid "Enter hostname"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:90
+msgid "State"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:93 site/admin/exportGenerateXLS.php:120
+#: site/admin/exportSubnet.php:156 site/ipaddr/subnetDetailsGraph.php:57
+#: site/ipaddr/modifyIpAddress.php:250
+msgid "Active"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:94 site/admin/exportGenerateXLS.php:121
+#: site/admin/exportSubnet.php:157 site/ipaddr/subnetDetailsGraph.php:65
+#: site/ipaddr/ipDetails.php:88 site/ipaddr/ipAddressPrintTable.php:286
+#: site/ipaddr/modifyIpAddress.php:251 functions/functions-network.php:71
+#: functions/functions-network.php:103
+msgid "Reserved"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:95 site/admin/exportGenerateXLS.php:119
+#: site/admin/exportSubnet.php:155 site/ipaddr/subnetDetailsGraph.php:61
+#: site/ipaddr/ipDetails.php:87 site/ipaddr/ipAddressPrintTable.php:285
+#: site/ipaddr/modifyIpAddress.php:252
+msgid "Offline"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:96 site/admin/exportGenerateXLS.php:122
+#: site/admin/exportSubnet.php:158 site/ipaddr/subnetDetailsGraph.php:69
+#: site/ipaddr/ipDetails.php:89 site/ipaddr/ipAddressPrintTable.php:287
+#: site/ipaddr/modifyIpAddress.php:253 functions/functions-network.php:72
+#: functions/functions-network.php:104
+msgid "DHCP"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:105 site/admin/CSVimportShowFile.php:69
+#: site/admin/replaceFields.php:29 site/ipaddr/ipDetails.php:107
+#: site/ipaddr/ipAddressPrintTable.php:184
+#: site/ipaddr/ipAddressPrintTableOrphaned.php:93
+#: site/ipaddr/exportSelectFields.php:69 site/ipaddr/modifyIpAddress.php:176
+#: site/tools/requestIPform.php:41 site/tools/devices.php:71
+#: site/tools/searchResults.php:118 site/tools/searchResults.php:119
+#: site/login/requestIPform.php:106 functions/functions-mail.php:267
+#: functions/functions-mail.php:282 functions/functions-mail.php:367
+#: functions/functions-mail.php:388
+msgid "Owner"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:115
+#: site/ipaddr/ipAddressPrintTable.php:180 site/ipaddr/mailNotifyIP.php:64
+#: site/ipaddr/modifyIpAddress.php:191
+msgid "Device"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:115 site/admin/exportGenerateXLS.php:100
+#: site/admin/exportSubnet.php:123 site/admin/csvtemplate.php:39
+#: site/tools/searchResultsExport.php:146
+msgid "port"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:118 site/ipaddr/modifyIpAddress.php:195
+msgid "Select device"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:119 site/admin/manageSubnetEdit.php:194
+#: site/ipaddr/modifyIpAddress.php:196
+msgid "None"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:131 site/admin/CSVimportShowFile.php:71
+#: site/admin/replaceFields.php:32 site/ipaddr/ipDetails.php:147
+#: site/ipaddr/ipAddressPrintTable.php:182
+#: site/ipaddr/ipAddressPrintTableOrphaned.php:91
+#: site/ipaddr/mailNotifyIP.php:68 site/ipaddr/exportSelectFields.php:83
+#: site/ipaddr/modifyIpAddress.php:218 site/ipaddr/modifyIpAddress.php:220
+#: site/tools/devices.php:67 site/tools/searchResults.php:116
+msgid "Port"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:145 site/admin/CSVimportShowFile.php:72
+#: site/ipaddr/ipDetails.php:123 site/ipaddr/exportSelectFields.php:90
+#: site/ipaddr/modifyIpAddress.php:232
+msgid "Note"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:147
+msgid "Write note"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:178
+msgid "Requester email"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:183
+msgid "Requester comment"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:188
+msgid "Comment approval/reject"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:190
+msgid "Enter reason for reject/approval to be sent to requester"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:202
+msgid "Reject"
+msgstr ""
+
+#: site/admin/manageRequestEdit.php:203
+msgid "Accept"
+msgstr ""
+
+#: site/admin/exportGenerateXLS.php:93 site/admin/exportSubnet.php:95
+#: site/admin/csvtemplate.php:32 site/tools/searchResultsExport.php:131
+msgid "ip address"
+msgstr ""
+
+#: site/admin/exportGenerateXLS.php:94 site/admin/exportSubnet.php:99
+#: site/admin/csvtemplate.php:33
+msgid "ip state"
+msgstr ""
+
+#: site/admin/exportGenerateXLS.php:95 site/admin/exportSubnet.php:103
+#: site/admin/csvtemplate.php:34 site/tools/searchResultsExport.php:138
+msgid "description"
+msgstr ""
+
+#: site/admin/exportGenerateXLS.php:96 site/admin/exportSubnet.php:107
+#: site/admin/csvtemplate.php:35 site/ipaddr/scan/subnetScanUpdatePing.php:77
+#: site/tools/requestIPform.php:36 site/tools/searchResultsExport.php:139
+msgid "hostname"
+msgstr ""
+
+#: site/admin/exportGenerateXLS.php:97 site/admin/exportSubnet.php:111
+#: site/admin/csvtemplate.php:36 site/tools/searchResultsExport.php:154
+msgid "mac"
+msgstr ""
+
+#: site/admin/exportGenerateXLS.php:98 site/admin/exportSubnet.php:115
+#: site/admin/csvtemplate.php:37 site/tools/searchResultsExport.php:150
+msgid "owner"
+msgstr ""
+
+#: site/admin/exportGenerateXLS.php:99 site/admin/exportSubnet.php:119
+#: site/tools/searchResultsExport.php:142
+msgid "switch"
+msgstr ""
+
+#: site/admin/exportGenerateXLS.php:101 site/admin/exportSubnet.php:127
+#: site/admin/csvtemplate.php:40 site/tools/searchResultsExport.php:158
+msgid "note"
+msgstr ""
+
+#: site/admin/exportGenerateXLS.php:154
+msgid "No hosts"
+msgstr ""
+
+#: site/admin/api.php:20 site/admin/adminMenu.php:40
+msgid "API management"
+msgstr ""
+
+#: site/admin/api.php:26
+msgid "Create API key"
+msgstr ""
+
+#: site/admin/api.php:34 site/admin/apiEdit.php:49
+msgid "App id"
+msgstr ""
+
+#: site/admin/api.php:35 site/admin/apiEdit.php:60
+msgid "App code"
+msgstr ""
+
+#: site/admin/api.php:36 site/admin/apiEdit.php:67
+msgid "App permissions"
+msgstr ""
+
+#: site/admin/api.php:51
+msgid "Disabled"
+msgstr ""
+
+#: site/admin/api.php:52 functions/functions-common.php:800
+msgid "Read"
+msgstr ""
+
+#: site/admin/api.php:53 functions/functions-common.php:801
+msgid "Read / Write"
+msgstr ""
+
+#: site/admin/api.php:61
+msgid "edit app details"
+msgstr ""
+
+#: site/admin/api.php:62
+msgid "remove app"
+msgstr ""
+
+#: site/admin/api.php:70
+msgid "No Apps available"
+msgstr ""
+
+#: site/admin/api.php:89
+msgid "The following PHP extensions for API server are missing"
+msgstr ""
+
+#: site/admin/api.php:95
+msgid "Please recompile PHP to include missing extensions for API server"
+msgstr ""
+
+#: site/admin/api.php:101
+msgid "API documentation"
+msgstr ""
+
+#: site/admin/api.php:105
+msgid "Please enable API module under server management"
+msgstr ""
+
+#: site/admin/showAll.php:1
+msgid "phpIPAM server settings"
+msgstr ""
+
+#: site/admin/showAll.php:4
+msgid "Please select setting from left menu"
+msgstr ""
+
+#: site/admin/manageVRFEditResult.php:23 functions/functions-admin.php:1036
+msgid "Name is mandatory"
+msgstr ""
+
+#: site/admin/manageSubnetresize.php:24 site/admin/manageSubnetresize.php:73
+#: site/admin/manageSubnetEdit.php:222
+msgid "Resize subnet"
+msgstr ""
+
+#: site/admin/manageSubnetresize.php:41
+msgid "Current mask"
+msgstr ""
+
+#: site/admin/manageSubnetresize.php:47
+msgid "New mask"
+msgstr ""
+
+#: site/admin/manageSubnetresize.php:59
+msgid ""
+"You can change subnet size by specifying new mask (bigger or smaller). "
+"Please note"
+msgstr ""
+
+#: site/admin/manageSubnetresize.php:61
+msgid ""
+"If subnet has hosts outside of resized subnet resizing will not be possible"
+msgstr ""
+
+#: site/admin/manageSubnetresize.php:62
+msgid ""
+"If strict mode is enabled check will be made to ensure it is still inside "
+"master subnet"
+msgstr ""
+
+#: site/admin/sectionChangelog.php:17 site/admin/settings.php:182
+#: site/ipaddr/subnetChangelog.php:18 site/ipaddr/subnetDetails.php:231
+#: site/ipaddr/ipDetailsChangelog.php:18 site/sections.php:163
+#: site/tools/changelog.php:16 site/tools/toolsMenu.php:34
+msgid "Changelog"
+msgstr ""
+
+#: site/admin/sectionChangelog.php:20
+msgid "Back to section"
+msgstr ""
+
+#: site/admin/sectionChangelog.php:26 site/ipaddr/subnetChangelog.php:27
+#: site/ipaddr/ipDetailsChangelog.php:23 site/tools/changelogPrint.php:22
+msgid "No changelogs available"
+msgstr ""
+
+#: site/admin/sectionChangelog.php:27
+msgid "No changelog entries are available for this section"
+msgstr ""
+
+#: site/admin/sectionChangelog.php:37 site/ipaddr/subnetChangelog.php:38
+#: site/ipaddr/ipDetailsChangelog.php:34 site/tools/changelogPrint.php:38
+#: functions/functions-admin.php:45
+msgid "User"
+msgstr ""
+
+#: site/admin/sectionChangelog.php:38 site/ipaddr/subnetChangelog.php:39
+#: site/ipaddr/ipDetailsChangelog.php:35 site/tools/changelogPrint.php:41
+msgid "Action"
+msgstr ""
+
+#: site/admin/sectionChangelog.php:39 site/ipaddr/subnetChangelog.php:40
+#: site/ipaddr/ipDetailsChangelog.php:36 site/tools/changelogPrint.php:42
+msgid "Result"
+msgstr ""
+
+#: site/admin/sectionChangelog.php:41 site/ipaddr/subnetChangelog.php:42
+#: site/ipaddr/ipDetailsChangelog.php:38 site/tools/changelogPrint.php:44
+msgid "Change"
+msgstr ""
+
+#: site/admin/CSVimportSubmit.php:22
+msgid "Cannot open csvupload/import.csv"
+msgstr ""
+
+#: site/admin/CSVimportSubmit.php:106
+msgid "Errors occured when importing to database!"
+msgstr ""
+
+#: site/admin/CSVimportSubmit.php:113 site/admin/ripeImportResult.php:72
+msgid "Import successfull"
+msgstr ""
+
+#: site/admin/manageSubnet.php:11 site/admin/adminMenu.php:62
+msgid "Subnet management"
+msgstr ""
+
+#: site/admin/manageSubnet.php:45
+msgid "click to show/hide all subnets"
+msgstr ""
+
+#: site/admin/manageSubnet.php:63
+msgid "click to show/hide belonging subnets"
+msgstr ""
+
+#: site/admin/manageSubnet.php:78 site/admin/manageSubnetEdit.php:130
+#: site/admin/ripeImportTelnet.php:101 site/admin/manageVLANEdit.php:32
+#: site/ipaddr/subnetDetailsSlaves.php:85 site/ipaddr/vrfSubnets.php:14
+#: site/ipaddr/vrfSubnets.php:19 site/ipaddr/folderDetailsSubnets.php:59
+#: site/ipaddr/ipAddressPrintTableSlaves.php:32 site/ipaddr/vlanSubnets.php:14
+#: site/ipaddr/vlanSubnets.php:19 site/ipaddr/mailNotifyIP.php:58
+#: site/ipaddr/subnetDetails.php:96 site/ipaddr/sectionAllSubnets.php:59
+#: site/tools/subnets.php:47 site/tools/vrf.php:42
+#: site/tools/searchResultsExport.php:274 site/tools/searchResults.php:107
+#: site/tools/searchResults.php:260 site/tools/favourites.php:37
+#: site/dashboard/widgets/favourite_subnets.php:34
+msgid "VLAN"
+msgstr ""
+
+#: site/admin/manageSubnet.php:80 site/admin/manageSubnetEdit.php:188
+#: site/admin/manageVRFEdit.php:26 site/ipaddr/subnetDetailsSlaves.php:106
+#: site/ipaddr/subnetDetails.php:117 site/ipaddr/sectionAllSubnets.php:61
+#: site/sections.php:211 site/tools/toolsMenu.php:59
+msgid "VRF"
+msgstr ""
+
+#: site/admin/manageSubnet.php:82 site/ipaddr/vrfSubnets.php:31
+#: site/ipaddr/folderDetailsSubnets.php:64
+#: site/ipaddr/ipAddressPrintTableSlaves.php:37 site/ipaddr/vlanSubnets.php:31
+#: site/ipaddr/sectionAllSubnets.php:63 site/tools/subnets.php:50
+#: site/tools/vrf.php:48 site/tools/searchResults.php:261
+msgid "Requests"
+msgstr ""
+
+#: site/admin/manageSubnet.php:83 site/ipaddr/vrfSubnets.php:28
+#: site/ipaddr/vlanSubnets.php:28 site/ipaddr/subnetDetails.php:134
+#: site/ipaddr/sectionAllSubnets.php:64 site/tools/subnets.php:51
+msgid "Hosts check"
+msgstr ""
+
+#: site/admin/manageSubnet.php:90
+msgid "Add new subnet to section"
+msgstr ""
+
+#: site/admin/manageSubnet.php:90
+msgid "Add subnet"
+msgstr ""
+
+#: site/admin/manageSubnet.php:96 site/ipaddr/sectionAllSubnets.php:75
+#: site/tools/subnets.php:64
+msgid "Section has no subnets"
+msgstr ""
+
+#: site/admin/customFieldsOrder.php:15
+msgid "Fileds cannot be empty"
+msgstr ""
+
+#: site/admin/customFieldsOrder.php:19
+msgid "Reordering failed"
+msgstr ""
+
+#: site/admin/customFieldsOrder.php:20
+msgid "Fields reordered successfully"
+msgstr ""
+
+#: site/admin/manageRequests.php:15
+msgid "List of all active IP addresses requests"
+msgstr ""
+
+#: site/admin/manageRequests.php:27 functions/functions-mail.php:268
+#: functions/functions-mail.php:283 functions/functions-mail.php:389
+msgid "Requested by"
+msgstr ""
+
+#: site/admin/manageRequests.php:28 functions/functions-mail.php:269
+#: functions/functions-mail.php:284
+msgid "Comment"
+msgstr ""
+
+#: site/admin/manageRequests.php:39
+msgid "Edit"
+msgstr ""
+
+#: site/admin/manageRequests.php:53
+msgid "No IP address requests available"
+msgstr ""
+
+#: site/admin/languageEdit.php:24
+msgid "Edit language"
+msgstr ""
+
+#: site/admin/languageEdit.php:25
+msgid "Delete language"
+msgstr ""
+
+#: site/admin/languageEdit.php:31
+msgid "Add new language"
+msgstr ""
+
+#: site/admin/manageFolderEditSubmit.php:17 site/admin/manageSubnetEdit.php:17
+#: site/admin/manageSubnetEditResult.php:17
+msgid "You do not have permissions to add new subnet in this section"
+msgstr ""
+
+#: site/admin/manageFolderEditSubmit.php:24 site/admin/manageSubnetEdit.php:24
+#: site/admin/manageSubnetEditResult.php:24
+msgid "You do not have permissions to add edit/delete this subnet"
+msgstr ""
+
+#: site/admin/manageFolderEditSubmit.php:69
+msgid "Folder name must have at least 2 characters"
+msgstr ""
+
+#: site/admin/manageFolderEditSubmit.php:77
+msgid "Error adding new folder"
+msgstr ""
+
+#: site/admin/manageFolderEditSubmit.php:80
+msgid "Folder, IP addresses and all belonging subnets deleted successfully"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:17 site/admin/manageSubnetEdit.php:24
+#: site/admin/manageFolderEdit.php:17 site/admin/manageFolderEdit.php:24
+#: site/admin/customFieldsEdit.php:76 site/tools/favouriteEdit.php:19
+msgid "Close"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:70
+msgid "subnet"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:88
+msgid "subnet in CIDR"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:91
+msgid "Get information from RIPE database"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:92
+msgid "Enter subnet in CIDR format (e.g. 192.168.1.1/24)"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:100
+msgid "subnet description"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:102
+msgid "Enter subnet description"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:124 site/admin/manageFolderEdit.php:99
+msgid "Move to different section"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:167 site/tools/subnets.php:48
+#: site/tools/vrf.php:45
+msgid "Master Subnet"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:171
+msgid ""
+"Enter master subnet if you want to nest it under existing subnet, or select "
+"root to create root subnet"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:193
+msgid "Select VRF"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:206
+msgid "Add this subnet to VRF"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:218
+msgid "Resize"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:218
+msgid "split"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:228 site/admin/manageSubnettruncate.php:27
+#: site/admin/manageSubnettruncate.php:61
+msgid "Truncate subnet"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:232
+msgid "Resize, split or truncate this subnet"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:244
+msgid "IP Requests"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:248
+msgid "Allow or deny IP requests for this subnet"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:258
+msgid "Show as name"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:279
+msgid "Show Subnet name instead of subnet IP address"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:288
+msgid "Check hosts status"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:292
+msgid "Ping hosts inside subnet to check avalibility"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:332 site/admin/manageFolderEdit.php:153
+msgid ""
+"Removing subnets will delete ALL underlaying subnets and belonging IP "
+"addresses"
+msgstr ""
+
+#: site/admin/manageSubnetEdit.php:347
+msgid "Delete subnet"
+msgstr ""
+
+#: site/admin/manageSubnetTruncateSave.php:12
+#: site/admin/manageSubnettruncate.php:12
+msgid "You do not have permissions to truncate subnet"
+msgstr ""
+
+#: site/admin/manageSubnetTruncateSave.php:23
+msgid "Subnet truncated succesfully"
+msgstr ""
+
+#: site/admin/manageAD_LDAP.php:13 site/admin/adminMenu.php:34
+msgid "OpenLDAP connection settings"
+msgstr ""
+
+#: site/admin/manageAD_LDAP.php:17
+msgid ""
+"Here you can set parameters for connecting to OpenLDAP for authenticating "
+"users. phpIPAM uses"
+msgstr ""
+
+#: site/admin/manageAD_LDAP.php:17 site/admin/manageAD_AD.php:17
+msgid ""
+"to authenticate users. If you need additional settings please take a look at "
+"functions/adLDAP or check online documentation!"
+msgstr ""
+
+#: site/admin/manageAD_LDAP.php:20
+msgid ""
+"First create new user under user management with <u>same username as on "
+"LDAP</u> and set usertype to domain user. Also set proper groups "
+"(permissions) for this user."
+msgstr ""
+
+#: site/admin/manageAD_LDAP.php:29 site/admin/manageAD_AD.php:29
+msgid "ldap extension not enabled in php"
+msgstr ""
+
+#: site/admin/manageAD_LDAP.php:38
+msgid "OpenLDAP servers"
+msgstr ""
+
+#: site/admin/manageAD_LDAP.php:42
+msgid ""
+"Enter domain controllers, separated by ; (default: dc1.domain.local;cd2."
+"domain.local)"
+msgstr ""
+
+#: site/admin/manageAD_LDAP.php:48 site/admin/manageAD_AD.php:49
+msgid "Base DN"
+msgstr ""
+
+#: site/admin/manageAD_LDAP.php:54
+msgid ""
+"Enter base DN for LDAP (default: CN=Users,CN=Company,DC=domain,DC=local)"
+msgstr ""
+
+#: site/admin/manageAD_LDAP.php:61 site/admin/manageAD_AD.php:84
+msgid "Use SSL"
+msgstr ""
+
+#: site/admin/manageAD_LDAP.php:69 site/admin/manageAD_AD.php:92
+msgid ""
+"Use SSL (LDAPS), your server needs to be setup (default: false), please see"
+msgstr ""
+
+#: site/admin/manageAD_LDAP.php:76 site/admin/manageAD_AD.php:99
+msgid "Use TLS"
+msgstr ""
+
+#: site/admin/manageAD_LDAP.php:79 site/admin/manageAD_AD.php:87
+#: site/admin/manageAD_AD.php:102
+msgid "false"
+msgstr ""
+
+#: site/admin/manageAD_LDAP.php:80 site/admin/manageAD_AD.php:88
+#: site/admin/manageAD_AD.php:103
+msgid "true"
+msgstr ""
+
+#: site/admin/manageAD_LDAP.php:84 site/admin/manageAD_AD.php:107
+msgid ""
+"If you wish to use TLS you should ensure that useSSL is set to false and "
+"vice-versa (default: false)"
+msgstr ""
+
+#: site/admin/manageAD_LDAP.php:91
+msgid "Server port"
+msgstr ""
+
+#: site/admin/manageAD_LDAP.php:96 site/admin/manageAD_AD.php:119
+msgid "The default port for LDAP non-SSL connections (default: 389)"
+msgstr ""
+
+#: site/admin/manageAD_LDAP.php:104 site/admin/manageAD_AD.php:127
+msgid "Test settings"
+msgstr ""
+
+#: site/admin/manageAD_LDAP.php:105 site/admin/manageAD_AD.php:128
+msgid "Save settings"
+msgstr ""
+
+#: site/admin/groupEditPrint.php:29
+msgid "group"
+msgstr ""
+
+#: site/admin/groupEditPrint.php:36
+msgid "Add new group"
+msgstr ""
+
+#: site/admin/groupEditPrint.php:50 site/admin/groups.php:32
+msgid "Group name"
+msgstr ""
+
+#: site/admin/groupEditPrint.php:52
+msgid "Enter group name"
+msgstr ""
+
+#: site/admin/groupEditPrint.php:64 site/admin/apiEdit.php:88
+#: site/tools/requestIPform.php:30
+msgid "Enter description"
+msgstr ""
+
+#: site/admin/ripeImportResult.php:66
+msgid "Failed to import subnet"
+msgstr ""
+
+#: site/admin/ripeImportResult.php:76
+msgid "Please fix the following errors before inserting"
+msgstr ""
+
+#: site/admin/manageADcheck.php:43
+msgid "AD network connection ok"
+msgstr ""
+
+#: site/admin/manageSubnetShowPermissions.php:31
+#: site/ipaddr/folderDetails.php:149
+msgid "Manage folder permissions"
+msgstr ""
+
+#: site/admin/manageSubnetShowPermissions.php:32
+#: site/ipaddr/subnetDetailsSlaves.php:176 site/ipaddr/subnetDetails.php:197
+#: site/ipaddr/subnetDetails.php:225
+msgid "Manage subnet permissions"
+msgstr ""
+
+#: site/admin/manageSubnetShowPermissions.php:40
+msgid "Manage permissions for folder"
+msgstr ""
+
+#: site/admin/manageSubnetShowPermissions.php:41
+msgid "Manage permissions for subnet"
+msgstr ""
+
+#: site/admin/manageSubnetShowPermissions.php:87
+msgid "Permissions for all nested subnets will be overridden"
+msgstr ""
+
+#: site/admin/manageSubnetShowPermissions.php:97
+msgid "Set permissions"
+msgstr ""
+
+#: site/admin/apiEdit.php:30
+msgid "api"
+msgstr ""
+
+#: site/admin/apiEdit.php:35
+msgid "Add new api key"
+msgstr ""
+
+#: site/admin/apiEdit.php:55
+msgid "Enter application identifier"
+msgstr ""
+
+#: site/admin/apiEdit.php:62
+msgid "Application code"
+msgstr ""
+
+#: site/admin/apiEdit.php:62
+msgid "Regenerate"
+msgstr ""
+
+#: site/admin/apiEdit.php:78
+msgid "Application permissions"
+msgstr ""
+
+#: site/admin/manageAD_AD.php:13
+msgid "Active Directory connection settings"
+msgstr ""
+
+#: site/admin/manageAD_AD.php:17
+msgid ""
+"Here you can set parameters for connecting to AD for authenticating users. "
+"phpIPAM uses"
+msgstr ""
+
+#: site/admin/manageAD_AD.php:20
+msgid ""
+"First create new user under user management with <u>same username as on AD</"
+"u> and set usertype to domain user. Also set proper permissions - group "
+"membership for new user"
+msgstr ""
+
+#: site/admin/manageAD_AD.php:38
+msgid "Domain controllers"
+msgstr ""
+
+#: site/admin/manageAD_AD.php:43
+msgid ""
+"Enter domain controllers, separated by ; (default: dc1.domain.local;dc2."
+"domain.local)"
+msgstr ""
+
+#: site/admin/manageAD_AD.php:54
+msgid ""
+"Enter base DN for LDAP (default: CN=Users,CN=Company,DC=domain,DC=local)"
+"<br>\n"
+"\t\tIf this is set to null then adLDAP will attempt to obtain this "
+"automatically from the rootDSE"
+msgstr ""
+
+#: site/admin/manageAD_AD.php:61
+msgid "Account suffix"
+msgstr ""
+
+#: site/admin/manageAD_AD.php:66
+msgid "The account suffix for your domain (default: @domain.local)"
+msgstr ""
+
+#: site/admin/manageAD_AD.php:72
+msgid "Domain account"
+msgstr ""
+
+#: site/admin/manageAD_AD.php:78
+msgid "Domain account for search operations"
+msgstr ""
+
+#: site/admin/manageAD_AD.php:114
+msgid "AD port"
+msgstr ""
+
+#: site/admin/instructions.php:23
+msgid "Edit user instructions"
+msgstr ""
+
+#: site/admin/instructions.php:43
+msgid "preview"
+msgstr ""
+
+#: site/admin/instructions.php:44
+msgid "Save instructions"
+msgstr ""
+
+#: site/admin/CSVimportShowFile.php:16
+msgid "<div class=\"alert alert-error\">Cannot open csvupload/import.csv</div>"
+msgstr ""
+
+#: site/admin/CSVimportShowFile.php:64
+#: site/ipaddr/scan/subnetScanDiscoveryPing.php:92
+#: site/ipaddr/scan/subnetScanUpdatePing.php:74
+msgid "IP"
+msgstr ""
+
+#: site/admin/CSVimportShowFile.php:65
+msgid "Status"
+msgstr ""
+
+#: site/admin/CSVimportShowFile.php:68 site/ipaddr/ipAddressPrintTable.php:323
+#: site/ipaddr/ipAddressPrintTableOrphaned.php:136
+msgid "MAC"
+msgstr ""
+
+#: site/admin/CSVimportShowFile.php:70 site/admin/replaceFields.php:31
+#: site/admin/searchReplaceResult.php:20 site/admin/searchReplaceResult.php:21
+#: site/ipaddr/ipDetails.php:131
+#: site/ipaddr/ipAddressPrintTableOrphaned.php:89
+#: site/ipaddr/exportSelectFields.php:76 site/tools/searchResults.php:114
+#: functions/functions-admin.php:1329 functions/functions-admin.php:1349
+msgid "Switch"
+msgstr ""
+
+#: site/admin/CSVimportShowFile.php:106 site/admin/ripeImportTelnet.php:114
+msgid "Import to database"
+msgstr ""
+
+#: site/admin/CSVimportShowFile.php:111
+msgid "Errors marked with red will be ignored from importing"
+msgstr ""
+
+#: site/admin/CSVimportShowFile.php:114
+msgid "Should I import values to database"
+msgstr ""
+
+#: site/admin/manageSubnetEditResult.php:98
+#: site/admin/manageSubnetEditResult.php:116
+msgid "Nested subnet not in root subnet!"
+msgstr ""
+
+#: site/admin/manageSubnetEditResult.php:121
+msgid "Subnet cannot nest behind itself!"
+msgstr ""
+
+#: site/admin/manageSubnetEditResult.php:174
+msgid "Please fix following problems"
+msgstr ""
+
+#: site/admin/manageSubnetEditResult.php:182
+msgid "Error adding new subnet"
+msgstr ""
+
+#: site/admin/manageSubnetEditResult.php:185
+msgid "Subnet, IP addresses and all belonging subnets deleted successfully"
+msgstr ""
+
+#: site/admin/manageDevicesEdit.php:27 site/admin/csvtemplate.php:38
+msgid "device"
+msgstr ""
+
+#: site/admin/manageDevicesEdit.php:54
+msgid "Device type"
+msgstr ""
+
+#: site/admin/manageDevicesEdit.php:70 site/admin/manageDevicesEdit.php:72
+#: site/admin/manageDevices.php:37
+msgid "Vendor"
+msgstr ""
+
+#: site/admin/manageDevicesEdit.php:78 site/admin/manageDevicesEdit.php:80
+#: site/admin/manageDevices.php:38
+msgid "Model"
+msgstr ""
+
+#: site/admin/manageDevicesEdit.php:86 site/admin/manageDevices.php:39
+msgid "SW version"
+msgstr ""
+
+#: site/admin/manageDevicesEdit.php:88
+msgid "Software version"
+msgstr ""
+
+#: site/admin/manageDevicesEdit.php:136
+msgid "Sections to display device in"
+msgstr ""
+
+#: site/admin/manageSectionOrder.php:34
+msgid ""
+"You can manually set order in which sections are displayed in. Default is "
+"creation date."
+msgstr ""
+
+#: site/admin/manageSectionOrder.php:44
+msgid "Order"
+msgstr ""
+
+#: site/admin/manageSectionOrder.php:58
+msgid "Not set"
+msgstr ""
+
+#: site/admin/manageSectionOrder.php:83 site/admin/filterIPFields.php:70
+msgid "Save"
+msgstr ""
+
+#: site/admin/manageVRFEdit.php:38
+msgid "VRF name"
+msgstr ""
+
+#: site/admin/manageVRFEdit.php:43 site/admin/manageVRF.php:35
+#: site/ipaddr/vrfDetails.php:32
+msgid "RD"
+msgstr ""
+
+#: site/admin/manageVRFEdit.php:45
+msgid "Route distinguisher"
+msgstr ""
+
+#: site/admin/groups.php:20 site/admin/adminMenu.php:23
+msgid "Group management"
+msgstr ""
+
+#: site/admin/groups.php:24
+msgid "Create group"
+msgstr ""
+
+#: site/admin/groups.php:33
+msgid "Group description"
+msgstr ""
+
+#: site/admin/groups.php:34
+msgid "Belonging users"
+msgstr ""
+
+#: site/admin/groups.php:35
+msgid "Section permissions"
+msgstr ""
+
+#: site/admin/groups.php:41
+msgid "Administrators"
+msgstr ""
+
+#: site/admin/groups.php:42
+msgid "Administrator level users"
+msgstr ""
+
+#: site/admin/groups.php:51
+msgid "All sections : Read / Write"
+msgstr ""
+
+#: site/admin/groups.php:94
+msgid "add users to this group"
+msgstr ""
+
+#: site/admin/groups.php:95
+msgid "remove users from this group"
+msgstr ""
+
+#: site/admin/groups.php:102
+msgid "edit group details"
+msgstr ""
+
+#: site/admin/groups.php:103
+msgid "remove group"
+msgstr ""
+
+#: site/admin/ripeImportTelnet.php:54
+msgid "No subnets found"
+msgstr ""
+
+#: site/admin/ripeImportTelnet.php:62
+msgid "I found the following routes belonging to AS"
+msgstr ""
+
+#: site/admin/ripeImportTelnet.php:75
+msgid "Remove this subnet"
+msgstr ""
+
+#: site/admin/ripeImportTelnet.php:85
+msgid "select section"
+msgstr ""
+
+#: site/admin/customFieldsEditResult.php:22
+msgid "Name must be between 4 and 24 characters"
+msgstr ""
+
+#: site/admin/customFieldsEditResult.php:27
+msgid "Name must not start with number"
+msgstr ""
+
+#: site/admin/customFieldsEditResult.php:30
+msgid "Only alphanumeric, spaces and underscore characters are allowed"
+msgstr ""
+
+#: site/admin/customFieldsEditResult.php:36
+msgid "Please correct the following errors"
+msgstr ""
+
+#: site/admin/export.php:13
+msgid "phpIPAM database export"
+msgstr ""
+
+#: site/admin/export.php:16
+msgid ""
+"You can download MySQL dump of database or generate XLS file of IP addresses"
+msgstr ""
+
+#: site/admin/export.php:20
+msgid "Create MySQL database dump"
+msgstr ""
+
+#: site/admin/export.php:21
+msgid "Prepare MySQL dump"
+msgstr ""
+
+#: site/admin/export.php:24
+msgid "Create XLS file of IP addresses"
+msgstr ""
+
+#: site/admin/export.php:25
+msgid "Prepare XLS dump"
+msgstr ""
+
+#: site/admin/export.php:28
+msgid "Create hostfile dump"
+msgstr ""
+
+#: site/admin/export.php:29
+msgid "Prepare hostfile dump"
+msgstr ""
+
+#: site/admin/groupRemoveUsersResult.php:21
+#: site/admin/groupAddUsersResult.php:22
+msgid "Error - no group ID"
+msgstr ""
+
+#: site/admin/groupRemoveUsersResult.php:34
+msgid "Please select user(s) to remove from group!"
+msgstr ""
+
+#: site/admin/groupRemoveUsersResult.php:40
+msgid "Failed to remove users"
+msgstr ""
+
+#: site/admin/groupRemoveUsersResult.php:49
+msgid "Users removed from group"
+msgstr ""
+
+#: site/admin/instructionsResult.php:20
+msgid "Failed to update instructions"
+msgstr ""
+
+#: site/admin/instructionsResult.php:21
+msgid "Instructions updated successfully"
+msgstr ""
+
+#: site/admin/verifyDatabase.php:15
+msgid "Database structure verification"
+msgstr ""
+
+#: site/admin/verifyDatabase.php:63
+msgid "All tables and fields are installed properly"
+msgstr ""
+
+#: site/admin/verifyDatabase.php:67
+msgid "Missing table"
+msgstr ""
+
+#: site/admin/verifyDatabase.php:79
+msgid "Missing fields"
+msgstr ""
+
+#: site/admin/versionCheck.php:13
+msgid "Version check failed"
+msgstr ""
+
+#: site/admin/versionCheck.php:19
+msgid "Latest version"
+msgstr ""
+
+#: site/admin/versionCheck.php:19
+msgid "already installed"
+msgstr ""
+
+#: site/admin/versionCheck.php:22
+msgid "Development version"
+msgstr ""
+
+#: site/admin/versionCheck.php:22
+msgid "installed! Latest production version is"
+msgstr ""
+
+#: site/admin/versionCheck.php:25
+msgid "New version of phpipam available"
+msgstr ""
+
+#: site/admin/versionCheck.php:26
+msgid "Installed version"
+msgstr ""
+
+#: site/admin/versionCheck.php:27
+msgid "Available version"
+msgstr ""
+
+#: site/admin/versionCheck.php:28
+msgid "You can download new version"
+msgstr ""
+
+#: site/admin/versionCheck.php:28
+msgid "here"
+msgstr ""
+
+#: site/admin/manageSubnetSplitSave.php:111
+#: site/admin/manageSubnetSplitSave.php:147
+msgid "Wrong IP addresses (subnet or broadcast)"
+msgstr ""
+
+#: site/admin/manageSubnetSplitSave.php:157
+#: site/admin/manageSubnetSplitSave.php:162
+msgid "Subnet splitted ok"
+msgstr ""
+
+#: site/admin/manageSubnetSplitSave.php:161
+msgid "Failed to remove old subnet"
+msgstr ""
+
+#: site/admin/replaceFields.php:16
+msgid "Search and replace fields in IP address list"
+msgstr ""
+
+#: site/admin/replaceFields.php:24
+msgid "Select field to replace"
+msgstr ""
+
+#: site/admin/replaceFields.php:30 site/ipaddr/ipDetails.php:115
+#: site/ipaddr/exportSelectFields.php:62 site/ipaddr/modifyIpAddress.php:162
+#: site/ipaddr/modifyIpAddress.php:164
+msgid "MAC address"
+msgstr ""
+
+#: site/admin/replaceFields.php:49
+msgid "Select search string"
+msgstr ""
+
+#: site/admin/replaceFields.php:51
+msgid "search string"
+msgstr ""
+
+#: site/admin/replaceFields.php:56
+msgid "Select replace string"
+msgstr ""
+
+#: site/admin/replaceFields.php:58
+msgid "replace string"
+msgstr ""
+
+#: site/admin/replaceFields.php:65
+msgid "Replace"
+msgstr ""
+
+#: site/admin/settings.php:18
+msgid "phpIPAM Server settings"
+msgstr ""
+
+#: site/admin/settings.php:26
+msgid "Site settings"
+msgstr ""
+
+#: site/admin/settings.php:31
+msgid "Site title"
+msgstr ""
+
+#: site/admin/settings.php:35
+msgid "Set site title"
+msgstr ""
+
+#: site/admin/settings.php:40
+msgid "Site domain"
+msgstr ""
+
+#: site/admin/settings.php:44
+msgid "Set domain for sending mail notifications"
+msgstr ""
+
+#: site/admin/settings.php:49
+msgid "Site URL"
+msgstr ""
+
+#: site/admin/settings.php:53
+msgid "Set site URL"
+msgstr ""
+
+#: site/admin/settings.php:57
+msgid "Default language"
+msgstr ""
+
+#: site/admin/settings.php:72
+msgid "Select default language"
+msgstr ""
+
+#: site/admin/settings.php:78
+msgid "Admin settings"
+msgstr ""
+
+#: site/admin/settings.php:83
+msgid "Admin name"
+msgstr ""
+
+#: site/admin/settings.php:88
+msgid ""
+"Set administrator name to display when sending mails and for contact info"
+msgstr ""
+
+#: site/admin/settings.php:94
+msgid "Admin mail"
+msgstr ""
+
+#: site/admin/settings.php:99
+msgid ""
+"Set administrator e-mail to display when sending mails and for contact info"
+msgstr ""
+
+#: site/admin/settings.php:107
+msgid "Feature settings"
+msgstr ""
+
+#: site/admin/settings.php:112
+msgid "Auth type"
+msgstr ""
+
+#: site/admin/settings.php:115
+msgid "Local authentication only"
+msgstr ""
+
+#: site/admin/settings.php:116
+msgid "AD authentication"
+msgstr ""
+
+#: site/admin/settings.php:117
+msgid "OpenLDAP authentication"
+msgstr ""
+
+#: site/admin/settings.php:121
+msgid ""
+"Set authentication type for users. Requires php LDAP support. Set connection "
+"settings in admin menu"
+msgstr ""
+
+#: site/admin/settings.php:127
+msgid "API"
+msgstr ""
+
+#: site/admin/settings.php:132
+msgid "Enable or disable API server module"
+msgstr ""
+
+#: site/admin/settings.php:138
+msgid "IP request module"
+msgstr ""
+
+#: site/admin/settings.php:143
+msgid "Enable or disable IP request module"
+msgstr ""
+
+#: site/admin/settings.php:149
+msgid "Enable VRF support"
+msgstr ""
+
+#: site/admin/settings.php:154
+msgid "Enable or disable VRF module"
+msgstr ""
+
+#: site/admin/settings.php:160
+msgid "Resolve DNS names"
+msgstr ""
+
+#: site/admin/settings.php:165
+msgid ""
+"Check reverse dns lookups for IP addresses that do not have hostname in "
+"database. (Activating this feature can significantly increase ip address "
+"pages loading time!)"
+msgstr ""
+
+#: site/admin/settings.php:171
+msgid "Duplicate VLANs"
+msgstr ""
+
+#: site/admin/settings.php:176
+msgid "Allow duplicate VLAN numbers"
+msgstr ""
+
+#: site/admin/settings.php:187
+msgid "Enable changelog"
+msgstr ""
+
+#: site/admin/settings.php:193
+msgid "Ping status intervals"
+msgstr ""
+
+#: site/admin/settings.php:198
+msgid ""
+"Ping status intervals for IP addresses in seconds - warning;offline "
+"(Default: 1800;3600)"
+msgstr ""
+
+#: site/admin/settings.php:206
+msgid "Display settings"
+msgstr ""
+
+#: site/admin/settings.php:211
+msgid "DHCP compress"
+msgstr ""
+
+#: site/admin/settings.php:216
+msgid "Compress DHCP ranges in IP table"
+msgstr ""
+
+#: site/admin/settings.php:222
+msgid "Tooltips"
+msgstr ""
+
+#: site/admin/settings.php:227
+msgid "Enable or disable tooltips"
+msgstr ""
+
+#: site/admin/settings.php:233
+msgid "HTML email"
+msgstr ""
+
+#: site/admin/settings.php:238
+msgid "Send html mail instead of plain text"
+msgstr ""
+
+#: site/admin/settings.php:244 site/admin/settings.php:249
+msgid "Hide donation button"
+msgstr ""
+
+#: site/admin/settings.php:255
+msgid "IP visual display limit"
+msgstr ""
+
+#: site/admin/settings.php:260
+msgid "Don't show visual display"
+msgstr ""
+
+#: site/admin/settings.php:278
+msgid ""
+"Select netmask limit for visual display of IP addresses (mask equal or "
+"bigger than - more then /22 not recommended)"
+msgstr ""
+
+#: site/admin/settings.php:285
+msgid "IP address print limit"
+msgstr ""
+
+#: site/admin/settings.php:290
+msgid "Show all"
+msgstr ""
+
+#: site/admin/settings.php:308
+msgid "Number of IP addresses per page"
+msgstr ""
+
+#: site/admin/settings.php:351 site/tools/userMenu.php:117
+msgid "Save changes"
+msgstr ""
+
+#: site/admin/languageEditResult.php:14
+msgid "Code must be at least 2 characters long"
+msgstr ""
+
+#: site/admin/manageFolderEdit.php:17
+msgid "You do not have permissions to add new folder in this section"
+msgstr ""
+
+#: site/admin/manageFolderEdit.php:24
+msgid "You do not have permissions to add edit/delete this folder"
+msgstr ""
+
+#: site/admin/manageFolderEdit.php:62
+msgid "folder"
+msgstr ""
+
+#: site/admin/manageFolderEdit.php:77
+msgid "Enter folder name"
+msgstr ""
+
+#: site/admin/manageFolderEdit.php:105
+msgid "Master Folder"
+msgstr ""
+
+#: site/admin/manageFolderEdit.php:109
+msgid ""
+"Enter master folder if you want to nest it under existing folder, or select "
+"root to create root folder"
+msgstr ""
+
+#: site/admin/manageFolderEdit.php:168
+msgid "Delete folder"
+msgstr ""
+
+#: site/admin/logClear.php:14
+msgid "Error clearing logs"
+msgstr ""
+
+#: site/admin/logClear.php:15
+msgid "Logs cleared successfully"
+msgstr ""
+
+#: site/admin/manageSubnettruncate.php:43
+msgid "Number of IP addresses"
+msgstr ""
+
+#: site/admin/manageSubnettruncate.php:51
+msgid ""
+"Truncating network will remove all IP addresses, that belong to selected "
+"subnet!"
+msgstr ""
+
+#: site/admin/usersEditResult.php:46
+msgid "Admin user cannot be deleted"
+msgstr ""
+
+#: site/admin/usersEditResult.php:49 functions/functions-admin.php:73
+msgid "Cannot delete user"
+msgstr ""
+
+#: site/admin/usersEditResult.php:50
+msgid "User deleted successfully"
+msgstr ""
+
+#: site/admin/manageSubnetPermissionsSubmit.php:40
+msgid "Subnet permissions set for subnet and underlying subnets"
+msgstr ""
+
+#: site/admin/manageSubnetPermissionsSubmit.php:41
+msgid "Subnet permissions set"
+msgstr ""
+
+#: site/admin/searchReplaceResult.php:16
+msgid "Please enter something in search field"
+msgstr ""
+
+#: site/admin/searchReplaceResult.php:20 site/admin/searchReplaceResult.php:21
+msgid "does not exist, first create switch under admin menu"
+msgstr ""
+
+#: site/admin/manageDevicesEditResult.php:41
+msgid "Hostname is mandatory"
+msgstr ""
+
+#: site/admin/logs.php:11 site/admin/adminMenu.php:50 site/sections.php:201
+msgid "Log files"
+msgstr ""
+
+#: site/admin/logs.php:21
+msgid "Download logs"
+msgstr ""
+
+#: site/admin/logs.php:24
+msgid "Clear logs"
+msgstr ""
+
+#: site/admin/logs.php:27 site/ipaddr/ipAddressPrintTable.php:133
+#: site/ipaddr/ipAddressPrintTable.php:435
+msgid "Previous page"
+msgstr ""
+
+#: site/admin/logs.php:28 site/ipaddr/ipAddressPrintTable.php:136
+#: site/ipaddr/ipAddressPrintTable.php:438
+msgid "Next page"
+msgstr ""
+
+#: site/admin/groupAddUsersResult.php:35
+msgid "Please select user(s) to add to selected group!"
+msgstr ""
+
+#: site/admin/groupAddUsersResult.php:41
+msgid "Failed to add users"
+msgstr ""
+
+#: site/admin/groupAddUsersResult.php:50
+msgid "Users added to group"
+msgstr ""
+
+#: site/admin/manageRequestResult.php:29
+msgid "Cannot update request"
+msgstr ""
+
+#: site/admin/manageRequestResult.php:33
+msgid "Request has beed rejected"
+msgstr ""
+
+#: site/admin/manageRequestResult.php:54 site/admin/manageRequestResult.php:58
+msgid "already in use"
+msgstr ""
+
+#: site/admin/manageRequestResult.php:54 site/admin/manageRequestResult.php:58
+msgid "First available IP address is"
+msgstr ""
+
+#: site/admin/manageRequestResult.php:66
+msgid "Cannot confirm IP address"
+msgstr ""
+
+#: site/admin/manageRequestResult.php:70
+msgid "IP address request confirmed and added to database"
+msgstr ""
+
+#: site/admin/usersEditEmailNotif.php:23
+msgid "New ipam account created"
+msgstr ""
+
+#: site/admin/usersEditEmailNotif.php:24
+msgid "User ipam account updated"
+msgstr ""
+
+#: site/admin/usersEditEmailNotif.php:25
+msgid "IPAM account details"
+msgstr ""
+
+#: site/admin/usersEditEmailNotif.php:28
+msgid "Sending notification mail for new account failed"
+msgstr ""
+
+#: site/admin/usersEditEmailNotif.php:29
+msgid "Notification mail for new account sent"
+msgstr ""
+
+#: site/admin/manageSectionOrderResult.php:31
+msgid "Section reordering successful"
+msgstr ""
+
+#: site/admin/manageDevices.php:18 site/admin/adminMenu.php:65
+msgid "Device management"
+msgstr ""
+
+#: site/admin/manageDevices.php:20
+msgid "Add device"
+msgstr ""
+
+#: site/admin/manageDevices.php:25
+msgid "No devices configured"
+msgstr ""
+
+#: site/admin/manageDevices.php:41
+msgid "Shows in which sections device will be visible for selection"
+msgstr ""
+
+#: site/admin/manageDevices.php:41 site/sections.php:205
+msgid "Sections"
+msgstr ""
+
+#: site/admin/customFieldsEdit.php:32
+msgid "custom field"
+msgstr ""
+
+#: site/admin/customFieldsEdit.php:44
+msgid "Select field name"
+msgstr ""
+
+#: site/admin/customFieldsEdit.php:56
+msgid "Enter comment for users"
+msgstr ""
+
+#: site/admin/customFieldsEdit.php:62
+msgid "Required field"
+msgstr ""
+
+#: site/admin/userADsearchForm.php:16
+msgid "Search user in AD"
+msgstr ""
+
+#: site/admin/logsExport.php:58
+msgid "id"
+msgstr ""
+
+#: site/admin/logsExport.php:62 site/dashboard/widgets/error_logs.php:16
+#: site/dashboard/widgets/access_logs.php:16
+msgid "Command"
+msgstr ""
+
+#: site/admin/logsExport.php:74
+msgid "Critical"
+msgstr ""
+
+#: site/admin/adminMenu.php:14 site/sections.php:197
+msgid "Server management"
+msgstr ""
+
+#: site/admin/adminMenu.php:17 site/sections.php:198
+msgid "IPAM settings"
+msgstr ""
+
+#: site/admin/adminMenu.php:28
+msgid "AD connection settings"
+msgstr ""
+
+#: site/admin/adminMenu.php:47
+msgid "Edit instructions"
+msgstr ""
+
+#: site/admin/adminMenu.php:56
+msgid "IP related management"
+msgstr ""
+
+#: site/admin/adminMenu.php:68
+msgid "VLAN management"
+msgstr ""
+
+#: site/admin/adminMenu.php:73
+msgid "VRF management"
+msgstr ""
+
+#: site/admin/adminMenu.php:77
+msgid "RIPE import"
+msgstr ""
+
+#: site/admin/adminMenu.php:82 site/ipaddr/subnetDetails.php:125
+#: site/sections.php:193 site/tools/searchResultsExport.php:275
+msgid "IP requests"
+msgstr ""
+
+#: site/admin/adminMenu.php:86
+msgid "Filter IP fields"
+msgstr ""
+
+#: site/admin/adminMenu.php:94 functions/functions-admin.php:1337
+#: functions/functions-admin.php:1356
+msgid "Other"
+msgstr ""
+
+#: site/admin/adminMenu.php:97
+msgid "Version check"
+msgstr ""
+
+#: site/admin/adminMenu.php:100
+msgid "Verify database"
+msgstr ""
+
+#: site/admin/adminMenu.php:103
+msgid "Replace fields"
+msgstr ""
+
+#: site/admin/adminMenu.php:106
+msgid "Export database"
+msgstr ""
+
+#: site/admin/manageVRF.php:15
+msgid "Manage VRF"
+msgstr ""
+
+#: site/admin/manageVRF.php:18
+msgid "Add VRF"
+msgstr ""
+
+#: site/admin/manageVRF.php:25 site/tools/vrf.php:22
+msgid "No VRFs configured"
+msgstr ""
+
+#: site/admin/filterIPFields.php:33
+msgid "Filter which fields to display in IP list"
+msgstr ""
+
+#: site/admin/filterIPFields.php:36
+msgid ""
+"You can select which fields are actually being used for IP management, so "
+"you dont show any overhead if not used. IP, hostname and description are "
+"mandatory"
+msgstr ""
+
+#: site/admin/filterIPFields.php:44
+msgid "Check which fields to use for IP addresses"
+msgstr ""
+
+#: site/admin/manageVLANs.php:17
+msgid "Manage VLANs"
+msgstr ""
+
+#: site/admin/manageVLANs.php:21
+msgid "Add VLAN"
+msgstr ""
+
+#: site/admin/manageVLANs.php:26
+msgid "No VLANs configured"
+msgstr ""
+
+#: site/admin/manageVLANs.php:35 site/admin/manageVLANEdit.php:42
+#: site/ipaddr/vlanDetails.php:35 site/tools/vlan.php:25
+#: site/tools/searchResults.php:342
+msgid "Number"
+msgstr ""
+
+#: site/admin/logResult.php:104
+msgid "Event details"
+msgstr ""
+
+#: site/admin/logResult.php:116 site/dashboard/widgets/error_logs.php:42
+#: site/dashboard/widgets/access_logs.php:42
+msgid "No logs available"
+msgstr ""
+
+#: site/admin/manageVLANEdit.php:44
+msgid "VLAN number"
+msgstr ""
+
+#: site/admin/manageVLANEdit.php:52
+msgid "VLAN name"
+msgstr ""
+
+#: site/admin/manageVLANEdit.php:97
+msgid "removing VLAN will also remove VLAN reference from belonging subnets"
+msgstr ""
+
+#: site/admin/groupAddUsers.php:25
+msgid "Add users to group"
+msgstr ""
+
+#: site/admin/groupAddUsers.php:67
+msgid "No available users to add to group"
+msgstr ""
+
+#: site/admin/manageSubnetResizeSave.php:43
+msgid "New mask must be at least /8"
+msgstr ""
+
+#: site/admin/manageSubnetResizeSave.php:53
+msgid "New subnet not in master subnet"
+msgstr ""
+
+#: site/admin/manageSubnetResizeSave.php:66
+msgid "Nested subnet out of new subnet"
+msgstr ""
+
+#: site/admin/manageSubnetResizeSave.php:84
+msgid "Error resizing subnet"
+msgstr ""
+
+#: site/admin/manageSubnetResizeSave.php:86
+msgid "Subnet resized successfully"
+msgstr ""
+
+#: site/ipaddr/subnetDetailsSlaves.php:24
+#: site/ipaddr/ipAddressPrintTable.php:60
+#: site/ipaddr/ipAddressPrintTableOrphaned.php:39
+#: site/ipaddr/subnetDetails.php:23
+msgid "Subnet does not exist"
+msgstr ""
+
+#: site/ipaddr/subnetDetailsSlaves.php:49 site/ipaddr/ipDetails.php:35
+#: site/ipaddr/subnetChangelog.php:15 site/ipaddr/subnetDetails.php:50
+#: site/ipaddr/sectionAllSubnets.php:89 site/ipaddr/ipDetailsChangelog.php:15
+msgid "You do not have permission to access this network"
+msgstr ""
+
+#: site/ipaddr/subnetDetailsSlaves.php:58
+#: site/ipaddr/subnetDetailsSlaves.php:63 site/ipaddr/subnetDetails.php:59
+#: site/ipaddr/subnetDetails.php:64
+msgid "Subnet details"
+msgstr ""
+
+#: site/ipaddr/subnetDetailsSlaves.php:71 site/ipaddr/ipDetails.php:70
+#: site/ipaddr/folderDetails.php:64 site/ipaddr/subnetDetails.php:73
+msgid "Hierarchy"
+msgstr ""
+
+#: site/ipaddr/subnetDetailsSlaves.php:77 site/ipaddr/vrfSubnets.php:26
+#: site/ipaddr/folderDetailsSubnets.php:60
+#: site/ipaddr/ipAddressPrintTableSlaves.php:33 site/ipaddr/vlanSubnets.php:26
+#: site/ipaddr/subnetDetails.php:79
+msgid "Subnet description"
+msgstr ""
+
+#: site/ipaddr/subnetDetailsSlaves.php:81 site/ipaddr/folderDetails.php:74
+#: site/ipaddr/subnetDetails.php:83
+msgid "Permission"
+msgstr ""
+
+#: site/ipaddr/subnetDetailsSlaves.php:126 site/ipaddr/ipDetails.php:209
+#: site/ipaddr/vlanDetails.php:66 site/ipaddr/vrfDetails.php:50
+#: site/ipaddr/folderDetails.php:94 site/ipaddr/subnetDetails.php:156
+msgid "Actions"
+msgstr ""
+
+#: site/ipaddr/subnetDetailsSlaves.php:134
+msgid "You do not have permissions to edit subnet"
+msgstr ""
+
+#: site/ipaddr/subnetDetailsSlaves.php:138
+#: site/ipaddr/subnetDetailsSlaves.php:154
+#: site/ipaddr/subnetDetailsSlaves.php:170 site/ipaddr/folderDetails.php:106
+#: site/ipaddr/folderDetails.php:125 site/ipaddr/folderDetails.php:143
+#: site/ipaddr/subnetDetails.php:173 site/ipaddr/subnetDetails.php:192
+#: site/ipaddr/subnetDetails.php:217 site/tools/favourites.php:83
+#: site/dashboard/widgets/favourite_subnets.php:59
+msgid "Click to remove from favourites"
+msgstr ""
+
+#: site/ipaddr/subnetDetailsSlaves.php:141
+#: site/ipaddr/subnetDetailsSlaves.php:157
+#: site/ipaddr/subnetDetailsSlaves.php:173 site/ipaddr/folderDetails.php:109
+#: site/ipaddr/folderDetails.php:128 site/ipaddr/folderDetails.php:146
+#: site/ipaddr/subnetDetails.php:175 site/ipaddr/subnetDetails.php:194
+#: site/ipaddr/subnetDetails.php:219
+msgid "Click to add to favourites"
+msgstr ""
+
+#: site/ipaddr/subnetDetailsSlaves.php:144
+#: site/ipaddr/subnetDetailsSlaves.php:160
+#: site/ipaddr/subnetDetailsSlaves.php:163
+#: site/ipaddr/subnetDetailsSlaves.php:179 site/ipaddr/folderDetails.php:112
+#: site/ipaddr/folderDetails.php:116 site/ipaddr/folderDetails.php:130
+#: site/ipaddr/folderDetails.php:134 site/ipaddr/folderDetails.php:152
+#: site/ipaddr/folderDetails.php:156 site/ipaddr/subnetDetails.php:167
+#: site/ipaddr/subnetDetails.php:189 site/ipaddr/subnetDetails.php:211
+msgid "Add new nested subnet"
+msgstr ""
+
+#: site/ipaddr/subnetDetailsSlaves.php:151
+#: site/ipaddr/subnetDetailsSlaves.php:167 site/ipaddr/subnetDetails.php:196
+#: site/ipaddr/subnetDetails.php:222
+msgid "Edit subnet properties"
+msgstr ""
+
+#: site/ipaddr/subnetDetailsGraph.php:53 site/ipaddr/vrfSubnets.php:30
+#: site/ipaddr/folderDetailsSubnets.php:63
+#: site/ipaddr/ipAddressPrintTableSlaves.php:36 site/ipaddr/vlanSubnets.php:30
+#: site/ipaddr/subnetDetails.php:90 site/tools/vrf.php:47
+msgid "Free"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddressCheck.php:19
+msgid "Cannot edit IP address"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddressCheck.php:87
+msgid "Invalid hostname"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddressCheck.php:128
+msgid "Only 255 IP addresses at once"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddressCheck.php:148
+msgid "Cannot"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddressCheck.php:163
+msgid "Range"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddressCheck.php:163
+msgid "updated successfully"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddressCheck.php:164
+msgid "successfull"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddressCheck.php:175
+msgid "Hostname is not unique"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddressCheck.php:201
+#: site/ipaddr/modifyIpAddressCheck.php:210
+msgid "already existing in database"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddressCheck.php:218
+msgid "Duplicate IP address"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddressCheck.php:218
+msgid "already existing in selected network"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddressCheck.php:224
+msgid "Error inserting IP address"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:45 site/ipaddr/mailNotifyIP.php:38
+msgid "IP address details"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:48 site/ipaddr/subnetChangelog.php:21
+msgid "Back to subnet"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:84
+msgid "IP status"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:90 functions/functions-network.php:69
+#: functions/functions-network.php:102
+msgid "Online"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:154
+msgid "Last edited"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:158 site/ipaddr/ipDetails.php:176
+#: site/ipaddr/ipAddressPrintTable.php:300
+msgid "Never"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:173 site/ipaddr/ipAddressPrintTable.php:297
+msgid "Device is alive"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:173 site/ipaddr/ipDetails.php:174
+#: site/ipaddr/ipDetails.php:175 site/ipaddr/ipDetails.php:176
+#: site/ipaddr/ipAddressPrintTable.php:297
+#: site/ipaddr/ipAddressPrintTable.php:298
+#: site/ipaddr/ipAddressPrintTable.php:299
+#: site/ipaddr/ipAddressPrintTable.php:300
+msgid "Last seen"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:174 site/ipaddr/ipAddressPrintTable.php:298
+msgid "Device warning"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:175 site/ipaddr/ipDetails.php:176
+#: site/ipaddr/ipAddressPrintTable.php:299
+#: site/ipaddr/ipAddressPrintTable.php:300
+msgid "Device is offline"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:177 site/ipaddr/ipAddressPrintTable.php:301
+msgid "Device status unknown"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:179
+msgid "Avalibility"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:218 site/ipaddr/ipDetails.php:226
+#: site/ipaddr/ipAddressPrintTable.php:363
+#: site/ipaddr/ipAddressPrintTable.php:371 site/tools/searchResults.php:224
+msgid "Edit IP address details"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:222 site/ipaddr/ipDetails.php:230
+#: site/ipaddr/ipAddressPrintTable.php:367
+#: site/ipaddr/ipAddressPrintTable.php:375
+#: site/ipaddr/ipAddressPrintTableOrphaned.php:172
+#: site/tools/searchResults.php:226
+msgid "Delete IP address"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:227 site/ipaddr/ipDetails.php:246
+#: site/ipaddr/ipAddressPrintTable.php:372
+#: site/ipaddr/ipAddressPrintTable.php:391
+msgid "Check avalibility"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:228 site/ipaddr/ipDetails.php:247
+#: site/ipaddr/ipAddressPrintTable.php:373
+#: site/ipaddr/ipAddressPrintTable.php:392
+msgid "Search same hostnames in db"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:229 site/ipaddr/ipDetails.php:248
+#: site/ipaddr/ipAddressPrintTable.php:374
+#: site/ipaddr/ipAddressPrintTable.php:393 site/tools/searchResults.php:225
+#: site/tools/searchResults.php:231
+msgid "Send mail notification"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:237 site/ipaddr/ipDetails.php:245
+#: site/ipaddr/ipAddressPrintTable.php:382
+#: site/ipaddr/ipAddressPrintTable.php:390 site/tools/searchResults.php:230
+msgid "Edit IP address details (disabled)"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:241 site/ipaddr/ipDetails.php:249
+#: site/ipaddr/ipAddressPrintTable.php:386
+#: site/ipaddr/ipAddressPrintTable.php:394 site/tools/searchResults.php:232
+msgid "Delete IP address (disabled)"
+msgstr ""
+
+#: site/ipaddr/ipDetails.php:264
+msgid "IP address not existing in database"
+msgstr ""
+
+#: site/ipaddr/vlanDetails.php:14
+msgid "Invalid VLAN id"
+msgstr ""
+
+#: site/ipaddr/vlanDetails.php:30
+msgid "VLAN details"
+msgstr ""
+
+#: site/ipaddr/subnetChangelog.php:28
+msgid "No changelog entries are available for this subnet"
+msgstr ""
+
+#: site/ipaddr/scan/subnetScanDiscoveryPingResult.php:15
+#: site/ipaddr/scan/subnetScanDiscoveryPing.php:15
+#: site/ipaddr/scan/subnetScanUpdatePing.php:15
+#: site/ipaddr/scan/subnetScan.php:15
+msgid "You do not have permissions to modify hosts in this subnet"
+msgstr ""
+
+#: site/ipaddr/scan/subnetScanDiscoveryPingResult.php:33
+msgid "Scan results added to database"
+msgstr ""
+
+#: site/ipaddr/scan/subnetScanDiscoveryPing.php:69
+#: site/ipaddr/scan/subnetScanUpdatePing.php:60
+msgid "Scan results"
+msgstr ""
+
+#: site/ipaddr/scan/subnetScanDiscoveryPing.php:79
+msgid "Invalid ping path"
+msgstr ""
+
+#: site/ipaddr/scan/subnetScanDiscoveryPing.php:79
+#: site/ipaddr/scan/subnetScan.php:71
+msgid "You can set parameters for scan under functions/scan/config-scan.php"
+msgstr ""
+
+#: site/ipaddr/scan/subnetScanDiscoveryPing.php:139
+msgid "Add discovered hosts"
+msgstr ""
+
+#: site/ipaddr/scan/subnetScanUpdatePing.php:66
+msgid "Subnet is empty"
+msgstr ""
+
+#: site/ipaddr/scan/subnetScanUpdatePing.php:76
+msgid "status"
+msgstr ""
+
+#: site/ipaddr/scan/subnetScan.php:24
+msgid "IPv6 scanning is not supported"
+msgstr ""
+
+#: site/ipaddr/scan/subnetScan.php:32 site/ipaddr/scan/subnetScan.php:86
+msgid "Scan subnet"
+msgstr ""
+
+#: site/ipaddr/scan/subnetScan.php:48
+msgid "Select Scan type"
+msgstr ""
+
+#: site/ipaddr/scan/subnetScan.php:52
+msgid "Discovery scans"
+msgstr ""
+
+#: site/ipaddr/scan/subnetScan.php:53 site/ipaddr/scan/subnetScan.php:54
+#: site/ipaddr/scan/subnetScan.php:55 site/ipaddr/scan/subnetScan.php:59
+#: site/ipaddr/scan/subnetScan.php:60
+msgid "scan"
+msgstr ""
+
+#: site/ipaddr/scan/subnetScan.php:58
+msgid "Status update scans"
+msgstr ""
+
+#: site/ipaddr/scan/subnetScan.php:72
+msgid "Discovery scans discover new hosts"
+msgstr ""
+
+#: site/ipaddr/scan/subnetScan.php:73
+msgid "Status update scans update alive status for whole subnet"
+msgstr ""
+
+#: site/ipaddr/vrfSubnets.php:14 site/ipaddr/vlanSubnets.php:14
+msgid "has no belonging subnets"
+msgstr ""
+
+#: site/ipaddr/vrfSubnets.php:19 site/ipaddr/folderDetailsSubnets.php:40
+#: site/ipaddr/folderDetailsSubnets.php:52
+#: site/ipaddr/ipAddressPrintTableSlaves.php:25 site/ipaddr/vlanSubnets.php:19
+msgid "has"
+msgstr ""
+
+#: site/ipaddr/vrfSubnets.php:19 site/ipaddr/vlanSubnets.php:19
+msgid "belonging subnets"
+msgstr ""
+
+#: site/ipaddr/vrfSubnets.php:29 site/ipaddr/folderDetailsSubnets.php:62
+#: site/ipaddr/ipAddressPrintTableSlaves.php:35 site/ipaddr/vlanSubnets.php:29
+#: site/ipaddr/subnetDetails.php:89 site/tools/subnets.php:49
+#: site/tools/vrf.php:46 site/tools/vlan.php:30 site/tools/favourites.php:38
+msgid "Used"
+msgstr ""
+
+#: site/ipaddr/vrfSubnets.php:55 site/ipaddr/vrfSubnets.php:77
+#: site/ipaddr/vlanSubnets.php:55 site/ipaddr/vlanSubnets.php:77
+#: site/ipaddr/subnetDetails.php:126 site/ipaddr/subnetDetails.php:135
+#: site/tools/vrf.php:104 functions/functions-common.php:1224
+#: functions/functions-common.php:1228
+msgid "enabled"
+msgstr ""
+
+#: site/ipaddr/ipAddressPrintTable.php:54
+msgid "IP addresses in subnet "
+msgstr ""
+
+#: site/ipaddr/ipAddressPrintTable.php:56
+msgid "All IP addresses belonging to ALL nested subnets"
+msgstr ""
+
+#: site/ipaddr/ipAddressPrintTable.php:123
+#: site/ipaddr/ipAddressPrintTable.php:149
+#: site/ipaddr/ipAddressPrintTable.php:150
+msgid "Page"
+msgstr ""
+
+#: site/ipaddr/ipAddressPrintTable.php:170
+msgid "Sort by IP address"
+msgstr ""
+
+#: site/ipaddr/ipAddressPrintTable.php:172
+msgid "Sort by hostname"
+msgstr ""
+
+#: site/ipaddr/ipAddressPrintTable.php:176
+msgid "Sort by description"
+msgstr ""
+
+#: site/ipaddr/ipAddressPrintTable.php:180
+msgid "Sort by device"
+msgstr ""
+
+#: site/ipaddr/ipAddressPrintTable.php:182
+msgid "Sort by port"
+msgstr ""
+
+#: site/ipaddr/ipAddressPrintTable.php:184
+msgid "Sort by owner"
+msgstr ""
+
+#: site/ipaddr/ipAddressPrintTable.php:188
+msgid "Sort by"
+msgstr ""
+
+#: site/ipaddr/ipAddressPrintTable.php:272
+msgid "DHCP range"
+msgstr ""
+
+#: site/ipaddr/pingCheck.php:17 functions/functions-common.php:803
+msgid "error"
+msgstr ""
+
+#: site/ipaddr/pingCheck.php:17
+msgid "Insufficient permissions"
+msgstr ""
+
+#: site/ipaddr/pingCheck.php:33
+msgid "Ping check result"
+msgstr ""
+
+#: site/ipaddr/pingCheck.php:40
+msgid "is alive"
+msgstr ""
+
+#: site/ipaddr/pingCheck.php:42
+msgid "is not alive"
+msgstr ""
+
+#: site/ipaddr/ipAddressPrintVisual.php:12
+msgid "Visual subnet display"
+msgstr ""
+
+#: site/ipaddr/ipAddressPrintVisual.php:12
+msgid "Click on IP address box<br>to manage IP address"
+msgstr ""
+
+#: site/ipaddr/vrfDetails.php:14
+msgid "Invalid VRF id"
+msgstr ""
+
+#: site/ipaddr/vrfDetails.php:27
+msgid "VRF details"
+msgstr ""
+
+#: site/ipaddr/folderDetailsSubnets.php:40
+msgid "directly nested folders"
+msgstr ""
+
+#: site/ipaddr/folderDetailsSubnets.php:52
+#: site/ipaddr/ipAddressPrintTableSlaves.php:25
+msgid "directly nested subnets"
+msgstr ""
+
+#: site/ipaddr/folderDetailsSubnets.php:145
+msgid "Folder has no nested folders or belonging subnets"
+msgstr ""
+
+#: site/ipaddr/ipAddressPrintTableSlaves.php:60
+#: site/ipaddr/ipAddressPrintTableSlaves.php:145
+#: site/ipaddr/ipAddressPrintTableSlaves.php:178
+msgid "Free space"
+msgstr ""
+
+#: site/ipaddr/ipAddressPrintTableOrphaned.php:69
+msgid "Orphaned IP addresses for subnet"
+msgstr ""
+
+#: site/ipaddr/ipAddressPrintTableOrphaned.php:69
+msgid ""
+"This happens if subnet had IP addresses<br>when new nested subnet was added"
+msgstr ""
+
+#: site/ipaddr/ipAddressPrintTableOrphaned.php:171
+msgid "Move to different subnet"
+msgstr ""
+
+#: site/ipaddr/mailNotifyCheck.php:31
+msgid "Sending mail failed"
+msgstr ""
+
+#: site/ipaddr/mailNotifyCheck.php:32
+msgid "Sending mail succeeded"
+msgstr ""
+
+#: site/ipaddr/mailNotifyCheck.php:35
+msgid "Wrong recipients! (separate multiple with ,)"
+msgstr ""
+
+#: site/ipaddr/mailNotifyIP.php:54
+msgid "Subnet desc"
+msgstr ""
+
+#: site/ipaddr/mailNotifyIP.php:86
+msgid "Send email notification"
+msgstr ""
+
+#: site/ipaddr/mailNotifyIP.php:97
+msgid "Recipients"
+msgstr ""
+
+#: site/ipaddr/mailNotifyIP.php:100
+msgid "Separate multiple recepients with ,"
+msgstr ""
+
+#: site/ipaddr/mailNotifyIP.php:106
+msgid "Title"
+msgstr ""
+
+#: site/ipaddr/mailNotifyIP.php:114
+msgid "Content"
+msgstr ""
+
+#: site/ipaddr/mailNotifyIP.php:128
+msgid "Send Mail"
+msgstr ""
+
+#: site/ipaddr/folderDetails.php:24
+msgid "Folder does not exist"
+msgstr ""
+
+#: site/ipaddr/folderDetails.php:49
+msgid "You do not have permission to access this folder"
+msgstr ""
+
+#: site/ipaddr/folderDetails.php:58
+msgid "Folder details"
+msgstr ""
+
+#: site/ipaddr/folderDetails.php:70
+msgid "Folder name"
+msgstr ""
+
+#: site/ipaddr/folderDetails.php:102
+msgid "You do not have permissions to edit folder"
+msgstr ""
+
+#: site/ipaddr/folderDetails.php:113 site/ipaddr/folderDetails.php:117
+#: site/ipaddr/folderDetails.php:131 site/ipaddr/folderDetails.php:135
+#: site/ipaddr/folderDetails.php:153 site/ipaddr/folderDetails.php:157
+msgid "Add new nested folder"
+msgstr ""
+
+#: site/ipaddr/folderDetails.php:121 site/ipaddr/folderDetails.php:140
+msgid "Edit folder"
+msgstr ""
+
+#: site/ipaddr/exportSelectFields.php:7
+msgid "Select fields to export"
+msgstr ""
+
+#: site/ipaddr/exportSelectFields.php:28
+msgid "You cannot access this subnet"
+msgstr ""
+
+#: site/ipaddr/exportSelectFields.php:45
+msgid "IP state"
+msgstr ""
+
+#: site/ipaddr/exportSelectFields.php:121
+msgid "Export"
+msgstr ""
+
+#: site/ipaddr/subnetDetails.php:87
+msgid "Subnet Usage"
+msgstr ""
+
+#: site/ipaddr/subnetDetails.php:91
+msgid "Total"
+msgstr ""
+
+#: site/ipaddr/subnetDetails.php:127 site/ipaddr/subnetDetails.php:136
+msgid "disabled"
+msgstr ""
+
+#: site/ipaddr/subnetDetails.php:164
+msgid "You do not have permissions to edit subnet or IP addresses"
+msgstr ""
+
+#: site/ipaddr/subnetDetails.php:177 site/ipaddr/subnetDetails.php:200
+#: site/ipaddr/subnetDetails.php:235
+msgid "Export IP addresses"
+msgstr ""
+
+#: site/ipaddr/subnetDetails.php:179 site/login/loginForm.php:52
+msgid "Request new IP address"
+msgstr ""
+
+#: site/ipaddr/subnetDetails.php:185 site/ipaddr/subnetDetails.php:187
+#: site/ipaddr/subnetDetails.php:205 site/ipaddr/subnetDetails.php:207
+msgid "Add new IP address"
+msgstr ""
+
+#: site/ipaddr/subnetDetails.php:198 site/ipaddr/subnetDetails.php:228
+msgid "Scan subnet for new hosts"
+msgstr ""
+
+#: site/ipaddr/subnetDetails.php:199 site/ipaddr/subnetDetails.php:234
+msgid "Import IP addresses"
+msgstr ""
+
+#: site/ipaddr/moveIpAddress.php:31
+msgid "Move IP address to different subnet"
+msgstr ""
+
+#: site/ipaddr/moveIpAddress.php:68 site/ipaddr/modifyIpAddress.php:149
+#: site/tools/requestIPform.php:35
+msgid "DNS name"
+msgstr ""
+
+#: site/ipaddr/moveIpAddress.php:81
+msgid "Select new subnet"
+msgstr ""
+
+#: site/ipaddr/moveIpAddress.php:110
+msgid "Move IP address"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddress.php:34
+msgid "Cannot edit IP address details"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddress.php:34
+msgid "You do not have write access for this network"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddress.php:81 site/ipaddr/modifyIpAddress.php:82
+msgid "add"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddress.php:83 site/ipaddr/modifyIpAddress.php:84
+msgid "edit"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddress.php:85
+msgid "delete"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddress.php:120
+msgid ""
+"You can add,edit or delete multiple IP addresses<br>by specifying IP range "
+"(e.g. 10.10.0.0-10.10.0.25)"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddress.php:152
+msgid "Click to check for hostname"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddress.php:178
+msgid "IP address owner"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddress.php:234
+msgid "Additional notes about IP address"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddress.php:268
+msgid "Ping exclude"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddress.php:271
+msgid "Exclude from ping status checks"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddress.php:309
+msgid "Unique"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddress.php:312
+msgid "Unique hostname"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddress.php:323 site/ipaddr/modifyIpAddress.php:335
+msgid "Not strict"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddress.php:326 site/ipaddr/modifyIpAddress.php:338
+msgid "Permit adding network/broadcast as IP"
+msgstr ""
+
+#: site/ipaddr/modifyIpAddress.php:359
+msgid "Delete IP"
+msgstr ""
+
+#: site/ipaddr/ipDetailsChangelog.php:24
+msgid "No changelog entries are available for this host"
+msgstr ""
+
+#: site/sections.php:85
+msgid "SubSections in"
+msgstr ""
+
+#: site/sections.php:101
+msgid "Show all subnets in section"
+msgstr ""
+
+#: site/sections.php:125 site/sections.php:161 site/tools/toolsMenu.php:45
+msgid "Favourite networks"
+msgstr ""
+
+#: site/sections.php:135
+msgid "Show IP addressing guide"
+msgstr ""
+
+#: site/sections.php:144
+msgid "Show tools menu"
+msgstr ""
+
+#: site/sections.php:147
+msgid "Available IPAM tools"
+msgstr ""
+
+#: site/sections.php:153 site/tools/toolsMenu.php:25
+msgid "IP calculator"
+msgstr ""
+
+#: site/sections.php:154 site/sections.php:207 site/tools/toolsMenu.php:54
+msgid "Devices"
+msgstr ""
+
+#: site/sections.php:156
+msgid "VRFs"
+msgstr ""
+
+#: site/sections.php:158 site/sections.php:208 site/tools/toolsMenu.php:51
+msgid "VLANs"
+msgstr ""
+
+#: site/sections.php:159 site/sections.php:206 site/tools/toolsMenu.php:42
+#: site/tools/toolsMenu.php:48 functions/functions-network.php:1567
+msgid "Subnets"
+msgstr ""
+
+#: site/sections.php:166
+msgid "Show all tools"
+msgstr ""
+
+#: site/sections.php:184
+msgid "Show Administration menu"
+msgstr ""
+
+#: site/sections.php:184
+msgid "Administration"
+msgstr ""
+
+#: site/sections.php:199
+msgid "Users"
+msgstr ""
+
+#: site/sections.php:204
+msgid "IP related settings"
+msgstr ""
+
+#: site/sections.php:214
+msgid "Show all settings"
+msgstr ""
+
+#: site/tools/userMenu.php:19
+msgid "here you can change your account details"
+msgstr ""
+
+#: site/tools/userMenu.php:35
+msgid "Display name"
+msgstr ""
+
+#: site/tools/userMenu.php:44
+msgid "Email address"
+msgstr ""
+
+#: site/tools/userMenu.php:57
+msgid "Random"
+msgstr ""
+
+#: site/tools/userMenu.php:62
+msgid "repeat"
+msgstr ""
+
+#: site/tools/userMenu.php:88
+msgid "Widgets"
+msgstr ""
+
+#: site/tools/userMenu.php:109
+msgid "Select widgets to be displayed on dashboard"
+msgstr ""
+
+#: site/tools/vrf.php:17
+msgid "Available VRFs and belonging subnets"
+msgstr ""
+
+#: site/tools/vrf.php:86
+msgid "Master subnet does not exist"
+msgstr ""
+
+#: site/tools/vrf.php:114
+msgid "No subnets belonging to this VRF"
+msgstr ""
+
+#: site/tools/ipCalcResult.php:22
+msgid "Invalid input"
+msgstr ""
+
+#: site/tools/ipCalcResult.php:29
+msgid "Subnetting details for"
+msgstr ""
+
+#: site/tools/ipCalcResult.php:53
+msgid "Create subnet from result"
+msgstr ""
+
+#: site/tools/ipCalcResult.php:59
+msgid "Select Section"
+msgstr ""
+
+#: site/tools/ipCalcResult.php:63
+msgid "Please select"
+msgstr ""
+
+#: site/tools/vlan.php:17
+msgid "Available VLANs:"
+msgstr ""
+
+#: site/tools/vlan.php:28 site/tools/searchResults.php:344
+msgid "Belonging subnets"
+msgstr ""
+
+#: site/tools/vlan.php:31
+msgid "free"
+msgstr ""
+
+#: site/tools/changelogPrint.php:23
+msgid "No changelog entries are available"
+msgstr ""
+
+#: site/tools/changelogPrint.php:40
+msgid "Object"
+msgstr ""
+
+#: site/tools/favouriteEdit.php:18
+msgid "Error editing favourite"
+msgstr ""
+
+#: site/tools/showAll.php:1
+msgid "phpIPAM tools"
+msgstr ""
+
+#: site/tools/requestIPform.php:2 site/login/requestIPform.php:9
+msgid "IP request form"
+msgstr ""
+
+#: site/tools/requestIPform.php:44
+msgid "Owner of IP address"
+msgstr ""
+
+#: site/tools/requestIPform.php:49 site/login/requestIPform.php:118
+msgid "Requester"
+msgstr ""
+
+#: site/tools/requestIPform.php:51
+msgid "your email address"
+msgstr ""
+
+#: site/tools/requestIPform.php:57 site/login/requestIPform.php:126
+msgid "Additional comment"
+msgstr ""
+
+#: site/tools/requestIPform.php:59
+msgid "Enter additional details for request if they are needed"
+msgstr ""
+
+#: site/tools/requestIPform.php:72
+msgid "Request IP"
+msgstr ""
+
+#: site/tools/searchResultsExport.php:95
+msgid "phpipam_search_export_"
+msgstr ""
+
+#: site/tools/searchResultsExport.php:127
+msgid "IP Search results"
+msgstr ""
+
+#: site/tools/searchResultsExport.php:135
+msgid "state"
+msgstr ""
+
+#: site/tools/searchResultsExport.php:266
+msgid "Subnet search results"
+msgstr ""
+
+#: site/tools/searchResultsExport.php:270
+msgid "Subet"
+msgstr ""
+
+#: site/tools/searchResultsExport.php:271
+msgid "Mask"
+msgstr ""
+
+#: site/tools/searchResultsExport.php:273 site/tools/searchResults.php:259
+msgid "Master subnet"
+msgstr ""
+
+#: site/tools/instructions.php:20
+msgid "Instructions for managing IP addresses"
+msgstr ""
+
+#: site/tools/search.php:11
+msgid "Search IP database"
+msgstr ""
+
+#: site/tools/search.php:17
+msgid "search"
+msgstr ""
+
+#: site/tools/changelog.php:41
+msgid "Change logging is disabled. You can enable it under administration"
+msgstr ""
+
+#: site/tools/ipCalc.php:6
+msgid "IPv4v6 calculator"
+msgstr ""
+
+#: site/tools/ipCalc.php:15
+msgid "mask"
+msgstr ""
+
+#: site/tools/ipCalc.php:20
+msgid "Please enter IP address and mask in CIDR format"
+msgstr ""
+
+#: site/tools/ipCalc.php:29
+msgid "Calculate"
+msgstr ""
+
+#: site/tools/ipCalc.php:30
+msgid "Reset"
+msgstr ""
+
+#: site/tools/searchTips.php:8
+msgid "Some search tips"
+msgstr ""
+
+#: site/tools/searchTips.php:15
+msgid "Text search"
+msgstr ""
+
+#: site/tools/searchTips.php:17
+msgid "Text searches through description, hostname, switch, port and owner"
+msgstr ""
+
+#: site/tools/searchTips.php:18
+msgid "For wildcard search add * (user*)"
+msgstr ""
+
+#: site/tools/searchTips.php:25
+msgid "IPv4 search tips"
+msgstr ""
+
+#: site/tools/searchTips.php:27
+msgid "You can search through ranges with * (e.g. 10.23.3.*)"
+msgstr ""
+
+#: site/tools/searchTips.php:28
+msgid "* shows ALL IP addresses and subnets"
+msgstr ""
+
+#: site/tools/searchTips.php:35
+msgid "IPv6 search tips"
+msgstr ""
+
+#: site/tools/searchTips.php:37
+msgid ""
+"You can search through ranges by specifying whole subnet (e.g. "
+"2002:8a10::/32)"
+msgstr ""
+
+#: site/tools/searchTips.php:44
+msgid "Hostname search tips"
+msgstr ""
+
+#: site/tools/searchTips.php:46
+msgid ""
+"You can get all IP addresses some host uses and all ports it is connected to "
+"by entering hostname in search field"
+msgstr ""
+
+#: site/tools/searchTips.php:53
+msgid "Device search tips"
+msgstr ""
+
+#: site/tools/searchTips.php:55
+msgid ""
+"You can get all used / available ports and connected IP's / hostnames in "
+"some device by entering device name in search field"
+msgstr ""
+
+#: site/tools/searchTips.php:62
+msgid "MAC search tips"
+msgstr ""
+
+#: site/tools/searchTips.php:64
+msgid ""
+"You can search by MAC address list entering MAC in 00:1cd:d4:78:ec:46 or "
+"001dd478ec46 format, or search multiple with 00:1c:c4:"
+msgstr ""
+
+#: site/tools/searchTips.php:71
+msgid "Custom field search tips"
+msgstr ""
+
+#: site/tools/searchTips.php:73
+msgid "You can search custom fields"
+msgstr ""
+
+#: site/tools/devices.php:23
+msgid "List of network devices"
+msgstr ""
+
+#: site/tools/devices.php:39
+msgid "Device not specified"
+msgstr ""
+
+#: site/tools/devices.php:56
+msgid "click to show/hide belonging IP addresses"
+msgstr ""
+
+#: site/tools/searchResults.php:93
+msgid "Search results (IP address list)"
+msgstr ""
+
+#: site/tools/searchResults.php:93
+msgid "Export All results to XLS"
+msgstr ""
+
+#: site/tools/searchResults.php:249
+msgid "Search results (Subnet list)"
+msgstr ""
+
+#: site/tools/searchResults.php:315
+msgid "Edit subnet details"
+msgstr ""
+
+#: site/tools/searchResults.php:318
+msgid "Edit subnet (disabled)"
+msgstr ""
+
+#: site/tools/searchResults.php:334
+msgid "Search results (VLANs)"
+msgstr ""
+
+#: site/tools/toolsMenu.php:22 functions/functions-common.php:1469
+msgid "Tools"
+msgstr ""
+
+#: site/tools/toolsMenu.php:66
+msgid "User menu"
+msgstr ""
+
+#: site/tools/toolsMenu.php:69
+msgid "My account"
+msgstr ""
+
+#: site/tools/favourites.php:19
+msgid "Favourite subnets"
+msgstr ""
+
+#: site/tools/favourites.php:25
+#: site/dashboard/widgets/favourite_subnets.php:22
+msgid "No favourite subnets selected"
+msgstr ""
+
+#: site/tools/favourites.php:26
+#: site/dashboard/widgets/favourite_subnets.php:23
+msgid ""
+"You can add subnets to favourites by clicking star icon in subnet details"
+msgstr ""
+
+#: site/tools/userMenuSelfMod.php:31
+msgid "Email not valid!"
+msgstr ""
+
+#: site/tools/userMenuSelfMod.php:40 functions/functions-admin.php:25
+#: functions/functions-admin.php:26
+msgid "Password must be at least 8 characters long!"
+msgstr ""
+
+#: site/tools/userMenuSelfMod.php:41 functions/functions-admin.php:22
+msgid "Passwords do not match!"
+msgstr ""
+
+#: site/tools/userMenuSelfMod.php:46
+msgid "Please fix the following error"
+msgstr ""
+
+#: site/tools/userMenuSelfMod.php:48
+msgid "Error updating"
+msgstr ""
+
+#: site/tools/userMenuSelfMod.php:49
+msgid "Account updated successfully"
+msgstr ""
+
+#: site/tools/userMenuSelfMod.php:52
+msgid "To apply language change please log in again"
+msgstr ""
+
+#: site/login/index.php:31
+msgid "You have logged out"
+msgstr ""
+
+#: site/login/requestIPresult.php:29
+msgid "Please provide valid email address"
+msgstr ""
+
+#: site/login/requestIPresult.php:29
+msgid "requester"
+msgstr ""
+
+#: site/login/requestIPresult.php:32
+msgid "Request submitted successfully"
+msgstr ""
+
+#: site/login/requestIPresult.php:39
+msgid "Error submitting new IP address request"
+msgstr ""
+
+#: site/login/loginForm.php:7
+msgid "Please login"
+msgstr ""
+
+#: site/login/loginForm.php:34 functions/functions-common.php:50
+msgid "Login"
+msgstr ""
+
+#: site/login/requestIPform.php:34
+msgid "No subnets available for requests"
+msgstr ""
+
+#: site/login/requestIPform.php:43 site/login/requestIPform.php:150
+msgid "Back to login"
+msgstr ""
+
+#: site/login/requestIPform.php:53
+msgid "Select subnet"
+msgstr ""
+
+#: site/login/requestIPform.php:84
+msgid "IP description"
+msgstr ""
+
+#: site/login/requestIPform.php:91
+msgid "device hostname"
+msgstr ""
+
+#: site/login/requestIPform.php:109
+msgid "Responsible person"
+msgstr ""
+
+#: site/login/requestIPform.php:120
+msgid "Your email address"
+msgstr ""
+
+#: site/login/requestIPform.php:128
+msgid ""
+"If there is anything else you want to say about request write it in this box"
+msgstr ""
+
+#: site/login/requestIPform.php:136
+msgid "Submit request"
+msgstr ""
+
+#: site/login/loginCheck.php:26
+msgid "Please enter your username and password"
+msgstr ""
+
+#: site/error.php:62
+msgid "Oops! Something went wrong!"
+msgstr ""
+
+#: site/error.php:64
+msgid "Provided http error code is"
+msgstr ""
+
+#: site/dashboard/index.php:27
+msgid "welcome to your IPAM dashboard"
+msgstr ""
+
+#: site/dashboard/index.php:34
+msgid "There are"
+msgstr ""
+
+#: site/dashboard/index.php:34
+msgid "requests"
+msgstr ""
+
+#: site/dashboard/index.php:34
+msgid "for IP address waiting for your approval"
+msgstr ""
+
+#: site/dashboard/index.php:61 site/dashboard/index.php:82
+#: site/dashboard/widgets/top10_percentage.php:218
+#: site/dashboard/widgets/top10_hosts_v4.php:211
+#: site/dashboard/widgets/top10_hosts_v6.php:210
+msgid "Loading statistics"
+msgstr ""
+
+#: site/dashboard/index.php:101
+msgid "No widgets selected"
+msgstr ""
+
+#: site/dashboard/index.php:101
+msgid "Please select widgets to be displayed on dashboard on user menu page"
+msgstr ""
+
+#: site/dashboard/widgets/statistics.php:32
+msgid "Number of Sections"
+msgstr ""
+
+#: site/dashboard/widgets/statistics.php:38
+msgid "Number of Subnets"
+msgstr ""
+
+#: site/dashboard/widgets/statistics.php:44
+msgid "Number of IPv4 addresses"
+msgstr ""
+
+#: site/dashboard/widgets/statistics.php:50
+msgid "Number of IPv6 addresses"
+msgstr ""
+
+#: site/dashboard/widgets/statistics.php:56
+msgid "Number of users"
+msgstr ""
+
+#: site/dashboard/widgets/top10_percentage.php:202
+msgid "Add some hosts to subnets to calculate usage percentage"
+msgstr ""
+
+#: site/dashboard/widgets/top10_hosts_v4.php:196
+#: site/dashboard/widgets/top10_hosts_v6.php:195
+msgid "Add some hosts to subnets to show graph of used hosts per subnet"
+msgstr ""
+
+#: site/dashboard/widgets/error_logs.php:24
+#: site/dashboard/widgets/access_logs.php:24
+msgid "Info"
+msgstr ""
+
+#: site/dashboard/widgets/error_logs.php:25
+#: site/dashboard/widgets/access_logs.php:25
+msgid "Warn"
+msgstr ""
+
+#: site/dashboard/widgets/error_logs.php:26
+#: site/dashboard/widgets/access_logs.php:26
+msgid "Err"
+msgstr ""
+
+#: site/footer.php:11
+msgid "In case of problems please contact"
+msgstr ""
+
+#: site/footer.php:17
+msgid "phpIPAM is free, open-source project"
+msgstr ""
+
+#: site/footer.php:17
+msgid ""
+"If you like the software you can donate by clicking this button to support "
+"further development"
+msgstr ""
+
+#: functions/functions-install.php:302
+msgid "Login successful"
+msgstr ""
+
+#: functions/functions-install.php:346
+msgid "AD login successful"
+msgstr ""
+
+#: functions/functions-install.php:350
+msgid "LDAP login successful"
+msgstr ""
+
+#: functions/functions-install.php:358
+msgid "Failed to connect to AD server"
+msgstr ""
+
+#: functions/functions-install.php:362
+msgid "Failed to connect to LDAP server"
+msgstr ""
+
+#: functions/functions-install.php:370
+msgid "Failed to authenticate user against AD"
+msgstr ""
+
+#: functions/functions-install.php:374
+msgid "Failed to authenticate user against LDAP"
+msgstr ""
+
+#: functions/functions-install.php:382 functions/functions-install.php:386
+#: functions/functions-install.php:395 functions/functions-install.php:399
+msgid "Wrong username or password"
+msgstr ""
+
+#: functions/functions-install.php:407
+msgid "Failed to log in"
+msgstr ""
+
+#: functions/functions-install.php:521
+msgid "Administrator level privileges are required to access this site"
+msgstr ""
+
+#: functions/functions-tools.php:31
+msgid "(closest parent)"
+msgstr ""
+
+#: functions/checkPhpBuild.php:59
+msgid "The following required PHP extensions are missing"
+msgstr ""
+
+#: functions/checkPhpBuild.php:65
+msgid "Please recompile PHP to include missing extensions and restart Apache."
+msgstr ""
+
+#: functions/checkPhpBuild.php:84
+msgid "Database connection failed"
+msgstr ""
+
+#: functions/functions-common.php:25
+msgid "Page not referred properly"
+msgstr ""
+
+#: functions/functions-common.php:49 functions/functions-common.php:50
+msgid "Please login first"
+msgstr ""
+
+#: functions/functions-common.php:123
+msgid "Administrator level privileges required"
+msgstr ""
+
+#: functions/functions-common.php:799
+msgid "No access"
+msgstr ""
+
+#: functions/functions-common.php:802
+msgid "Read / Write / Admin"
+msgstr ""
+
+#: functions/functions-common.php:947
+msgid "Folder contains more subnets"
+msgstr ""
+
+#: functions/functions-common.php:947 functions/functions-common.php:952
+#: functions/functions-common.php:957 functions/functions-common.php:1030
+#: functions/functions-common.php:1112
+msgid "Click on folder to open/close"
+msgstr ""
+
+#: functions/functions-common.php:952 functions/functions-common.php:957
+msgid "Subnet contains more subnets"
+msgstr ""
+
+#: functions/functions-common.php:1030
+msgid "VLAN contains subnets"
+msgstr ""
+
+#: functions/functions-common.php:1112
+msgid "VRF contains subnets"
+msgstr ""
+
+#: functions/functions-admin.php:20
+msgid "Real name field is mandatory!"
+msgstr ""
+
+#: functions/functions-admin.php:29
+msgid "Invalid email address!"
+msgstr ""
+
+#: functions/functions-admin.php:45
+msgid "already exists!"
+msgstr ""
+
+#: functions/functions-admin.php:186
+msgid "Cannot update user"
+msgstr ""
+
+#: functions/functions-admin.php:1161
+msgid "Cannot reorder sections"
+msgstr ""
+
+#: functions/functions-admin.php:1330 functions/functions-admin.php:1350
+msgid "Router"
+msgstr ""
+
+#: functions/functions-admin.php:1331 functions/functions-admin.php:1351
+msgid "Firewall"
+msgstr ""
+
+#: functions/functions-admin.php:1332 functions/functions-admin.php:1352
+msgid "Hub"
+msgstr ""
+
+#: functions/functions-admin.php:1333 functions/functions-admin.php:1353
+msgid "Wireless"
+msgstr ""
+
+#: functions/functions-admin.php:1334 functions/functions-admin.php:1354
+msgid "Database"
+msgstr ""
+
+#: functions/functions-admin.php:1335 functions/functions-admin.php:1355
+msgid "Workstation"
+msgstr ""
+
+#: functions/functions-admin.php:1336
+msgid "Laptop"
+msgstr ""
+
+#: functions/functions-admin.php:1645
+msgid "Update settings error"
+msgstr ""
+
+#: functions/functions-admin.php:1693
+msgid "Replaced"
+msgstr ""
+
+#: functions/functions-admin.php:1693
+msgid "items successfully"
+msgstr ""
+
+#: functions/functions-admin.php:1739
+msgid "Wrong IP address"
+msgstr ""
+
+#: functions/functions-admin.php:1742
+msgid "IP address already exists"
+msgstr ""
+
+#: functions/functions-network.php:68 functions/functions-network.php:101
+msgid "Not in use (Offline)"
+msgstr ""
+
+#: functions/functions-network.php:303
+msgid "VLAN must be numeric value!"
+msgstr ""
+
+#: functions/functions-network.php:304
+msgid "Vlan number can be max 4094"
+msgstr ""
+
+#: functions/functions-network.php:1171 functions/functions-network.php:1188
+#: functions/functions-network.php:1250 functions/functions-network.php:1276
+msgid "Subnet overlapps with"
+msgstr ""
+
+#: functions/functions-network.php:1534
+msgid "Folders"
+msgstr ""
+
+#: functions/functions-network.php:1571 functions/functions-network.php:1573
+msgid "Root subnet"
+msgstr ""
+
+#: functions/functions-network.php:1893
+msgid "Select Master folder"
+msgstr ""
+
+#: functions/functions-network.php:1894
+msgid "Root folder"
+msgstr ""
+
+#: functions/functions-network.php:2335 functions/functions-network.php:2359
+msgid "IP address not valid"
+msgstr ""
+
+#: functions/functions-network.php:2337 functions/functions-network.php:2361
+msgid "IP address not in selected subnet"
+msgstr ""
+
+#: functions/functions-network.php:2344 functions/functions-network.php:2365
+msgid "Cannot add subnet as IP address!"
+msgstr ""
+
+#: functions/functions-network.php:2345
+msgid "Cannot add broadcast as IP address!"
+msgstr ""
+
+#: functions/functions-network.php:2389 functions/functions-network.php:2409
+msgid "Invalid CIDR format!"
+msgstr ""
+
+#: functions/functions-network.php:2403
+msgid "Invalid IP address!"
+msgstr ""
+
+#: functions/functions-network.php:2405 functions/functions-network.php:2429
+msgid "IP address cannot be subnet! (Consider using"
+msgstr ""
+
+#: functions/functions-network.php:2407
+msgid "Invalid netmask"
+msgstr ""
+
+#: functions/functions-network.php:2418
+msgid "Invalid IPv6 address!"
+msgstr ""
+
+#: functions/functions-mail.php:103 functions/functions-mail.php:172
+#: functions/functions-mail.php:194 functions/functions-mail.php:371
+msgid "Sent by user"
+msgstr ""
+
+#: functions/functions-mail.php:165
+msgid "your domain username"
+msgstr ""
+
+#: functions/functions-mail.php:166
+msgid "your domain password"
+msgstr ""
+
+#: functions/functions-mail.php:170 functions/functions-mail.php:193
+msgid "WebApp"
+msgstr ""
+
+#: functions/functions-mail.php:255
+msgid "New IP address request in subnet"
+msgstr ""
+
+#: functions/functions-mail.php:270 functions/functions-mail.php:285
+msgid "Sent at"
+msgstr ""
+
+#: functions/functions-mail.php:339
+msgid "IP address request"
+msgstr ""
+
+#: functions/functions-mail.php:363
+msgid "assigned IP address"
+msgstr ""
+
+#: functions/functions-mail.php:368
+msgid "Requested from"
+msgstr ""
+
+#: functions/functions-mail.php:369 functions/functions-mail.php:390
+msgid "Comment (request)"
+msgstr ""
+
+#: functions/functions-mail.php:370 functions/functions-mail.php:391
+msgid "Admin accept/reject comment"
+msgstr ""
+
+#: functions/functions-mail.php:384
+msgid "Assigned IP address"
+msgstr ""
